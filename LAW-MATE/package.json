@@ -1,0 +1,33 @@
+{
+  "name": "lawmate",
+  "private": true,
+  "version": "0.0.0",
+  "type": "module",
+  "scripts": {
+    "dev": "vite",
+    "build": "vite build",
+    "preview": "vite preview",
+    "# start backend and frontend together for development": "",
+    "dev:backend": "npm run dev --prefix backend",
+    "dev:ml": "python ml_service/ml_service.py",
+    "dev:all": "concurrently \"npm run dev:ml\" \"npm run dev:backend\" \"vite\""
+  },
+  "dependencies": {
+    "@google/genai": "^1.29.1",
+    "@google/generative-ai": "^0.24.1",
+    "axios": "^1.13.6",
+    "framer-motion": "^12.38.0",
+    "lucide-react": "^0.577.0",
+    "react": "^19.2.0",
+    "react-dom": "^19.2.0",
+    "react-router-dom": "^7.13.1",
+    "recharts": "^3.8.0"
+  },
+  "devDependencies": {
+    "@types/node": "^22.14.0",
+    "@vitejs/plugin-react": "^5.0.0",
+    "concurrently": "^9.2.1",
+    "typescript": "~5.8.2",
+    "vite": "^6.2.0"
+  }
+}

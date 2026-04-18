@@ -1,0 +1,841 @@
+text,category
+"My employer hasn't paid my salary for three months despite multiple reminders",labour_law
+"I was fired from my job without any valid reason or notice",labour_law
+"My boss is harassing me at work and creating a hostile environment",labour_law
+"I work 12 hours a day but only get paid for 8 hours",labour_law
+"My company refuses to pay overtime despite working extra hours",labour_law
+"I was denied maternity leave by my employer",labour_law
+"My workplace doesn't provide proper safety equipment",labour_law
+"I was discriminated against based on my age at work",labour_law
+"My employer deducted money from my salary without explanation",labour_law
+"I was forced to work on holidays without extra pay",labour_law
+"My landlord won't return my security deposit after I moved out",property_law
+"The landlord entered my apartment without permission",property_law
+"My neighbor's construction is damaging my property",property_law
+"I received an eviction notice without proper cause",property_law
+"The rental agreement has unfair clauses that weren't explained",property_law
+"My landlord refuses to fix the leaking roof in my apartment",property_law
+"The property I bought has boundary disputes with neighbors",property_law
+"I was overcharged for maintenance fees in my apartment complex",property_law
+"My landlord changed the locks while I was away",property_law
+"The apartment I rented has serious electrical problems",property_law
+"Someone hacked into my online banking account and stole money",cyber_crime
+"I received a phishing email that stole my personal information",cyber_crime
+"My social media account was hacked and used to post inappropriate content",cyber_crime
+"Online fraud through fake investment schemes",cyber_crime
+"Someone is cyberstalking me through various online platforms",cyber_crime
+"My credit card information was stolen from an online store",cyber_crime
+"I was scammed through a fake job posting online",cyber_crime
+"Someone impersonated me online and damaged my reputation",cyber_crime
+"My computer was infected with ransomware demanding payment",cyber_crime
+"Online harassment through anonymous messages and posts",cyber_crime
+"My husband physically assaulted me during an argument",criminal_law
+"I was robbed at gunpoint while walking home",criminal_law
+"Someone broke into my house and stole valuable items",criminal_law
+"I witnessed a hit and run accident but the driver fled",criminal_law
+"My neighbor threatened me with violence over a property dispute",criminal_law
+"I was falsely accused of shoplifting at a store",criminal_law
+"Domestic violence incident involving physical abuse",criminal_law
+"Someone vandalized my car in the parking lot",criminal_law
+"I was assaulted by a stranger on the street",criminal_law
+"Burglary attempt at my residence",criminal_law
+"The product I bought online was completely different from advertised",consumer_law
+"I purchased a defective electronic device that stopped working after a week",consumer_law
+"The company refuses to refund my money for a faulty product",consumer_law
+"I was charged twice for the same online purchase",consumer_law
+"The warranty on my appliance expired before the product failed",consumer_law
+"I received damaged goods in my online order",consumer_law
+"The store refused to accept returns without receipt",consumer_law
+"I was sold counterfeit products as genuine",consumer_law
+"The service provider didn't deliver what was promised in the contract",consumer_law
+"I was overcharged for services I didn't receive",consumer_law
+"My professor discriminated against me based on my religion",education_law
+"The college refused to provide accommodations for my disability",education_law
+"I was expelled from university without proper investigation",education_law
+"My school is not following the curriculum standards",education_law
+"I was denied admission due to bias in the selection process",education_law
+"The educational institution charged excessive fees without transparency",education_law
+"My teacher gave me unfair grades without justification",education_law
+"The school failed to protect me from bullying by other students",education_law
+"I was denied scholarship due to discriminatory practices",education_law
+"The college didn't provide promised facilities and resources",education_law
+"My business partner cheated me out of profits",business_law
+"The supplier breached our contract by not delivering goods",business_law
+"I was sued by a competitor for false advertising claims",business_law
+"My company was accused of intellectual property theft",business_law
+"The investor backed out of our agreement at the last minute",business_law
+"I signed a partnership agreement with unfair terms",business_law
+"My business was defamed by false online reviews",business_law
+"The vendor didn't fulfill the service level agreement",business_law
+"I was forced into an unfavorable business merger",business_law
+"My trademark was infringed by another company",business_law
+"My boss keeps making inappropriate comments about my appearance",labour_law
+"I was passed over for promotion due to gender discrimination",labour_law
+"The company fired me for taking medical leave",labour_law
+"I work in unsafe conditions without proper protective gear",labour_law
+"My employer monitors my personal communications without consent",labour_law
+"I was forced to sign a non-compete agreement after leaving",labour_law
+"The company doesn't provide paid sick leave as promised",labour_law
+"I was retaliated against for reporting workplace harassment",labour_law
+"My salary is below minimum wage for my role",labour_law
+"The workplace doesn't accommodate my religious practices",labour_law
+"My apartment building has major plumbing issues that won't be fixed",property_law
+"The landlord increased rent without proper notice",property_law
+"I discovered my rental property has code violations",property_law
+"My neighbor's tree roots are damaging my foundation",property_law
+"The property management company mishandled my security deposit",property_law
+"I was locked out of my apartment due to a dispute",property_law
+"The rental agreement has hidden fees not disclosed initially",property_law
+"My landlord entered my unit without 24-hour notice",property_law
+"The property I purchased has undisclosed liens",property_law
+"I was evicted without proper legal procedure",property_law
+"My email account was compromised and used to send spam",cyber_crime
+"Someone created fake social media profiles using my identity",cyber_crime
+"I was targeted by a sophisticated phishing campaign",cyber_crime
+"My online banking was hacked through a malware infection",cyber_crime
+"Identity theft through stolen personal information",cyber_crime
+"Someone accessed my cloud storage without permission",cyber_crime
+"Cyberbullying through coordinated online harassment",cyber_crime
+"My website was hacked and defaced",cyber_crime
+"Data breach exposed my personal information",cyber_crime
+"Online fraud through fake cryptocurrency investment",cyber_crime
+"I was attacked by my spouse during a domestic dispute",criminal_law
+"Someone stole my wallet containing important documents",criminal_law
+"I witnessed a violent crime but fear retaliation",criminal_law
+"Burglary of my business premises",criminal_law
+"Threats of violence from an unknown caller",criminal_law
+"I was falsely accused of a crime I didn't commit",criminal_law
+"Stalking by a former partner",criminal_law
+"Vandalism of personal property",criminal_law
+"Someone forged my signature on legal documents",criminal_law
+"Assault with a deadly weapon",criminal_law
+"The restaurant served me food that made me ill",consumer_law
+"I bought a car that had undisclosed mechanical problems",consumer_law
+"The service contract had hidden cancellation fees",consumer_law
+"I was sold expired products at a store",consumer_law
+"The warranty claim was denied without valid reason",consumer_law
+"I purchased software that doesn't work as advertised",consumer_law
+"The company charged me for services I cancelled",consumer_law
+"I received the wrong item in my online order",consumer_law
+"The product broke during normal use within warranty period",consumer_law
+"False advertising led me to purchase an inferior product",consumer_law
+"My university discriminated against me based on nationality",education_law
+"The school failed to provide accessible facilities",education_law
+"I was suspended without due process",education_law
+"The educational loan terms were misrepresented",education_law
+"My grades were changed without explanation",education_law
+"The college didn't honor the scholarship agreement",education_law
+"I was denied transfer credits unfairly",education_law
+"The institution failed to report campus safety incidents",education_law
+"Discrimination in student housing assignments",education_law
+"The school charged unauthorized fees",education_law
+"My co-founder stole company intellectual property",business_law
+"The client refused to pay for completed work",business_law
+"I was sued for breach of non-disclosure agreement",business_law
+"The supplier provided substandard materials",business_law
+"My business partner embezzled company funds",business_law
+"Unfair competition from a former employee",business_law
+"The merger agreement had undisclosed liabilities",business_law
+"I was forced to buy out my partner's share unfairly",business_law
+"Trademark infringement by a competitor",business_law
+"Contract dispute over delivery terms",business_law
+"My supervisor creates a toxic work environment",labour_law
+"I was denied training opportunities based on race",labour_law
+"The company violated my privacy rights",labour_law
+"I work excessive overtime without compensation",labour_law
+"My employer refused reasonable accommodation for disability",labour_law
+"I was wrongfully terminated during probation",labour_law
+"The workplace has discriminatory hiring practices",labour_law
+"I was forced to work off the clock",labour_law
+"My performance review was unfairly negative",labour_law
+"The company doesn't provide adequate breaks",labour_law
+"My condo association charges excessive maintenance fees",property_law
+"The property developer didn't complete promised amenities",property_law
+"I discovered easement issues with my land purchase",property_law
+"My tenant refuses to pay rent and damages property",property_law
+"The landlord discriminated in tenant selection",property_law
+"Property tax assessment was incorrect and too high",property_law
+"The HOA rules are unfairly enforced",property_law
+"I was sold property with environmental contamination",property_law
+"The lease agreement has automatic renewal clauses",property_law
+"My neighbor built on my property line",property_law
+"Someone hacked my smart home devices",cyber_crime
+"Online identity theft for financial gain",cyber_crime
+"I was targeted by ransomware attack",cyber_crime
+"Fake online reviews damaged my business reputation",cyber_crime
+"Unauthorized access to my email and contacts",cyber_crime
+"Cyber espionage targeting my company data",cyber_crime
+"Someone spread malware through my social media",cyber_crime
+"Online auction fraud",cyber_crime
+"Data breach at a service provider exposed my information",cyber_crime
+"Phishing attack impersonating government agencies",cyber_crime
+"Armed robbery at a convenience store",criminal_law
+"I was assaulted while walking my dog",criminal_law
+"Someone broke into my garage and stole tools",criminal_law
+"Hit and run accident with injuries",criminal_law
+"Death threats received through mail",criminal_law
+"I witnessed a drug deal gone wrong",criminal_law
+"Arson at a commercial property",criminal_law
+"Someone keyed my car in a parking dispute",criminal_law
+"Forgery of official documents",criminal_law
+"Stalking through repeated unwanted contact",criminal_law
+"The hotel charged me for amenities I didn't use",consumer_law
+"I bought a phone that had water damage",consumer_law
+"The service provider didn't honor the money-back guarantee",consumer_law
+"I was sold a product past its expiration date",consumer_law
+"The company refused to repair under warranty",consumer_law
+"Subscription service charged after cancellation",consumer_law
+"I received incomplete documentation with purchase",consumer_law
+"The product packaging was misleading",consumer_law
+"I was overbilled for utilities",consumer_law
+"False claims in product advertising",consumer_law
+"The university didn't provide promised research facilities",education_law
+"I was denied access to educational records",education_law
+"The school failed to report bullying incidents",education_law
+"Discrimination in grading practices",education_law
+"I was expelled for political activism",education_law
+"The college charged for services not rendered",education_law
+"My scholarship was revoked without cause",education_law
+"The institution failed to provide disability services",education_law
+"Unfair disciplinary actions by school administration",education_law
+"The curriculum didn't meet accreditation standards",education_law
+"The investor pulled out after signing term sheet",business_law
+"My supplier failed to deliver critical components",business_law
+"I was accused of patent infringement",business_law
+"The joint venture partner breached fiduciary duty",business_law
+"Unfair trade practices by competitors",business_law
+"My business was libeled in news articles",business_law
+"The acquisition offer was withdrawn unfairly",business_law
+"I was forced into arbitration with unfavorable terms",business_law
+"Copyright violation by a third party",business_law
+"Contract dispute over payment terms",business_law
+"My manager spreads rumors about me at work",labour_law
+"I was denied promotion due to family status",labour_law
+"The company monitors employee communications",labour_law
+"I work in hazardous conditions without training",labour_law
+"My employer refused medical leave for surgery",labour_law
+"I was fired for whistleblowing",labour_law
+"Discriminatory performance evaluations",labour_law
+"The workplace doesn't provide adequate ventilation",labour_law
+"I was forced to sign a liability waiver",labour_law
+"My salary was reduced without agreement",labour_law
+"The property I inherited has title disputes",property_law
+"My landlord refuses to address pest infestation",property_law
+"The condo board mismanaged reserve funds",property_law
+"I was charged for repairs I didn't authorize",property_law
+"The property lines were surveyed incorrectly",property_law
+"My tenant sublet without permission",property_law
+"The landlord changed lease terms mid-tenancy",property_law
+"I discovered the property has flood damage history",property_law
+"The HOA fined me unfairly",property_law
+"My neighbor's fence encroaches on my land",property_law
+"Corporate espionage through hacked email",cyber_crime
+"Someone stole my intellectual property online",cyber_crime
+"I was targeted by a DDoS attack",cyber_crime
+"Fake news articles damaged my personal reputation",cyber_crime
+"Unauthorized access to my medical records",cyber_crime
+"Cyber attack on my business website",cyber_crime
+"Someone hacked my online store and stole customer data",cyber_crime
+"Investment scam through social engineering",cyber_crime
+"Data breach at my bank exposed account information",cyber_crime
+"Phishing attack targeting my employees",cyber_crime
+"Carjacking at an intersection",criminal_law
+"I was mugged while jogging in the park",criminal_law
+"Someone broke into my shed and stole equipment",criminal_law
+"Reckless driving caused property damage",criminal_law
+"Harassing phone calls from unknown numbers",criminal_law
+"I witnessed a violent altercation",criminal_law
+"Arson at residential property",criminal_law
+"Someone slashed my tires",criminal_law
+"Counterfeiting of official identification",criminal_law
+"Repeated harassment by a neighbor",criminal_law
+"The airline lost my luggage and refused compensation",consumer_law
+"I bought furniture that arrived damaged",consumer_law
+"The gym membership had hidden fees",consumer_law
+"I was sold spoiled food at a restaurant",consumer_law
+"The warranty was voided for normal wear",consumer_law
+"Subscription box contained wrong items",consumer_law
+"I received billing errors from service provider",consumer_law
+"The product had safety recalls not disclosed",consumer_law
+"I was charged for returned merchandise",consumer_law
+"Misleading product specifications",consumer_law
+"My child was bullied at school without intervention",education_law
+"The school district misallocated funds",education_law
+"I was denied special education services",education_law
+"Discrimination in extracurricular activities",education_law
+"The university breached enrollment contract",education_law
+"My tuition was increased without notice",education_law
+"The school failed to provide transportation",education_law
+"I was suspended for protected speech",education_law
+"Unfair grading curves affected my GPA",education_law
+"The institution didn't meet diversity requirements",education_law
+"My franchise agreement was terminated unfairly",business_law
+"The distributor refused to stock my products",business_law
+"I was sued for false advertising",business_law
+"The licensing agreement was breached",business_law
+"My business partner filed for bankruptcy",business_law
+"Anti-competitive behavior by suppliers",business_law
+"The merger was blocked by regulatory issues",business_law
+"I was forced to accept unfavorable contract terms",business_law
+"Domain name dispute with cybersquatter",business_law
+"Payment dispute with international client",business_law
+"My coworker sabotages my work performance",labour_law
+"I was denied leave for family emergency",labour_law
+"The company tracks employee location",labour_law
+"I work in extreme temperatures without protection",labour_law
+"My employer refused workers compensation",labour_law
+"I was constructively dismissed",labour_law
+"Biased disciplinary procedures",labour_law
+"The workplace lacks emergency exits",labour_law
+"I was forced to work during medical recovery",labour_law
+"My benefits were reduced without notice",labour_law
+"The house I bought has foundation problems",property_law
+"My landlord harasses tenants for complaints",property_law
+"The property management is negligent",property_law
+"I was double-billed for property taxes",property_law
+"The survey showed boundary encroachments",property_law
+"My tenant refuses to maintain the property",property_law
+"The lease has unconscionable terms",property_law
+"I discovered the property was foreclosed previously",property_law
+"The HOA board is self-dealing",property_law
+"My neighbor's construction blocks my view",property_law
+"State-sponsored cyber attacks on my data",cyber_crime
+"Someone hacked my cryptocurrency wallet",cyber_crime
+"I was targeted by sextortion",cyber_crime
+"Fake social media accounts impersonate me",cyber_crime
+"Unauthorized access to my tax records",cyber_crime
+"Cyber attack disrupted my business operations",cyber_crime
+"Someone leaked confidential company information",cyber_crime
+"Romance scam through dating apps",cyber_crime
+"Data breach at healthcare provider",cyber_crime
+"Phishing campaign targeting my industry",cyber_crime
+"Home invasion robbery",criminal_law
+"I was assaulted at a public event",criminal_law
+"Someone stole my bicycle from garage",criminal_law
+"Dangerous driving caused pedestrian injury",criminal_law
+"Threatening letters received at home",criminal_law
+"I witnessed a murder attempt",criminal_law
+"Arson at industrial facility",criminal_law
+"Someone damaged my property in retaliation",criminal_law
+"Forgery of financial documents",criminal_law
+"Stalking through social media monitoring",criminal_law
+"The cable company overcharged for months",consumer_law
+"I bought a vehicle with undisclosed accidents",consumer_law
+"The insurance policy had exclusions not explained",consumer_law
+"I was served contaminated food",consumer_law
+"The product warranty was shorter than advertised",consumer_law
+"Magazine subscription continued after cancellation",consumer_law
+"I received incorrect change at store",consumer_law
+"The product had manufacturing defects",consumer_law
+"I was billed for services not requested",consumer_law
+"False environmental claims in advertising",consumer_law
+"The professor showed bias in classroom",education_law
+"The school board misspent public funds",education_law
+"I was denied admission to advanced program",education_law
+"Discrimination in student loan access",education_law
+"The college breached transfer agreement",education_law
+"My fees were increased retroactively",education_law
+"The school failed to provide textbooks",education_law
+"I was censored for academic freedom",education_law
+"Unfair standardized testing practices",education_law
+"The institution violated FERPA",education_law
+"My startup was sued by former employees",business_law
+"The vendor failed quality control standards",business_law
+"I was accused of trade secret theft",business_law
+"The partnership agreement was dissolved unfairly",business_law
+"My competitor engaged in price fixing",business_law
+"The company was defamed by fake reviews",business_law
+"The IPO was cancelled due to market conditions",business_law
+"I was forced into mediation with biased arbitrator",business_law
+"Software license infringement",business_law
+"Currency fluctuation dispute in contract",business_law
+"My team lead assigns all difficult tasks to me",labour_law
+"I was denied vacation time accrued",labour_law
+"The company reads employee emails",labour_law
+"I work with hazardous materials without PPE",labour_law
+"My employer denied disability accommodation",labour_law
+"I was fired for union organizing",labour_law
+"Discriminatory promotion criteria",labour_law
+"The workplace has poor air quality",labour_law
+"I was forced to sign non-compete during employment",labour_law
+"My commission structure was changed unfairly",labour_law
+"The apartment has lead paint hazards",property_law
+"My landlord retaliates against complaints",property_law
+"The property manager is corrupt",property_law
+"I was charged interest on late fees unfairly",property_law
+"The property appraisal was incorrect",property_law
+"My tenant illegally modified the property",property_law
+"The rental agreement violates tenant rights",property_law
+"I discovered the property has toxic mold",property_law
+"The HOA dues fund illegal activities",property_law
+"My neighbor's noise violates bylaws",property_law
+"Advanced persistent threat targeting my network",cyber_crime
+"Someone hacked my smart car",cyber_crime
+"I was victim of doxxing",cyber_crime
+"Fake profiles spread misinformation",cyber_crime
+"Unauthorized access to my legal documents",cyber_crime
+"Cyber attack on critical infrastructure",cyber_crime
+"Someone stole my source code",cyber_crime
+"Tech support scam through phone",cyber_crime
+"Data breach at government agency",cyber_crime
+"Phishing attack using deepfakes",cyber_crime
+"Bank robbery with hostages",criminal_law
+"I was assaulted in a parking garage",criminal_law
+"Someone stole my laptop from office",criminal_law
+"Reckless endangerment with vehicle",criminal_law
+"Intimidating messages from stalker",criminal_law
+"I witnessed a terrorist threat",criminal_law
+"Arson at historical building",criminal_law
+"Someone vandalized my business sign",criminal_law
+"Counterfeiting of currency",criminal_law
+"Stalking through GPS tracking",criminal_law
+"The pharmacy gave wrong medication",consumer_law
+"I bought a home with undisclosed defects",consumer_law
+"The credit card agreement had hidden fees",consumer_law
+"I was served undercooked meat",consumer_law
+"The product warranty excluded normal failure",consumer_law
+"Streaming service charged after cancellation",consumer_law
+"I received counterfeit merchandise",consumer_law
+"The product had undisclosed allergens",consumer_law
+"I was overcharged for prescription",consumer_law
+"Misleading nutritional information",consumer_law
+"The teacher failed to report child abuse",education_law
+"The school district discriminated in funding",education_law
+"I was denied honors program access",education_law
+"Discrimination in athletic scholarships",education_law
+"The university breached research contract",education_law
+"My financial aid was reduced unfairly",education_law
+"The school failed to provide counseling",education_law
+"I was punished for cultural expression",education_law
+"Unfair academic probation policies",education_law
+"The institution violated Title IX",education_law
+"My corporation was sued by shareholders",business_law
+"The manufacturer failed product specifications",business_law
+"I was accused of copyright infringement",business_law
+"The shareholder agreement was breached",business_law
+"My competitor engaged in industrial espionage",business_law
+"The company was libeled by media",business_law
+"The acquisition failed due diligence",business_law
+"I was forced into binding arbitration",business_law
+"Patent dispute with competitor",business_law
+"International trade law violation",business_law
+"My supervisor gives preferential treatment",labour_law
+"I was denied bereavement leave",labour_law
+"The company monitors personal devices",labour_law
+"I work with dangerous equipment untrained",labour_law
+"My employer refused FMLA leave",labour_law
+"I was fired for political beliefs",labour_law
+"Biased performance metrics",labour_law
+"The workplace has accessibility issues",labour_law
+"I was forced to waive overtime pay",labour_law
+"My bonus was withheld without cause",labour_law
+"The commercial property has zoning violations",property_law
+"My landlord discriminates against minorities",property_law
+"The property management is incompetent",property_law
+"I was charged for utilities included in rent",property_law
+"The property assessment appealed unsuccessfully",property_law
+"My tenant runs illegal business",property_law
+"The lease agreement is in foreign language",property_law
+"I discovered the property has earthquake damage",property_law
+"The HOA president embezzles funds",property_law
+"My neighbor's lights shine into my windows",property_law
+"Zero-day exploit targeted my systems",cyber_crime
+"Someone hacked my pacemaker",cyber_crime
+"I was victim of revenge porn",cyber_crime
+"Fake news campaign against me",cyber_crime
+"Unauthorized access to my financial records",cyber_crime
+"Cyber attack on my supply chain",cyber_crime
+"Someone stole my digital artwork",cyber_crime
+"Grandparent scam through phone",cyber_crime
+"Data breach at credit bureau",cyber_crime
+"Phishing using AI voice cloning",cyber_crime
+"Mass shooting at public venue",criminal_law
+"I was assaulted in a taxi",criminal_law
+"Someone stole my motorcycle",criminal_law
+"DUI caused fatal accident",criminal_law
+"Death threats via text message",criminal_law
+"I witnessed a bombing attempt",criminal_law
+"Arson at religious institution",criminal_law
+"Someone spray-painted my house",criminal_law
+"Forgery of academic credentials",criminal_law
+"Stalking through hidden cameras",criminal_law
+"The mechanic overcharged for repairs",consumer_law
+"I bought a boat with engine problems",consumer_law
+"The loan agreement had predatory terms",consumer_law
+"I was served food with foreign objects",consumer_law
+"The product warranty was invalidated",consumer_law
+"Newspaper subscription continued after stop",consumer_law
+"I received damaged goods in shipment",consumer_law
+"The product had undisclosed recalls",consumer_law
+"I was billed for disconnected service",consumer_law
+"False health benefit claims",consumer_law
+"The principal showed favoritism",education_law
+"The school district misallocated resources",education_law
+"I was denied gifted program admission",education_law
+"Discrimination in teacher assignments",education_law
+"The college breached housing contract",education_law
+"My grants were reduced without reason",education_law
+"The school failed to provide meals",education_law
+"I was suspended for social media posts",education_law
+"Unfair attendance policies",education_law
+"The institution violated ADA",education_law
+"My LLC was sued by vendors",business_law
+"The supplier failed delivery deadlines",business_law
+"I was accused of trademark dilution",business_law
+"The operating agreement was unfair",business_law
+"My competitor engaged in bait and switch",business_law
+"The business was slandered online",business_law
+"The financing fell through",business_law
+"I was forced into unfavorable settlement",business_law
+"Domain name cybersquatting",business_law
+"Export control violation",business_law
+"My director micromanages excessively",labour_law
+"I was denied jury duty leave",labour_law
+"The company tracks internet usage",labour_law
+"I operate heavy machinery without certification",labour_law
+"My employer denied pregnancy accommodation",labour_law
+"I was fired for Facebook posts",labour_law
+"Discriminatory dress code",labour_law
+"The workplace has tripping hazards",labour_law
+"I was forced to buy company products",labour_law
+"My raise was denied unfairly",labour_law
+"The office building has asbestos",property_law
+"My landlord evicts for rent control violation",property_law
+"The property management is discriminatory",property_law
+"I was charged for landlord's mistakes",property_law
+"The property value decreased due to external factors",property_law
+"My tenant damages property intentionally",property_law
+"The lease has illegal clauses",property_law
+"I discovered the property has sinkholes",property_law
+"The HOA enforces discriminatory rules",property_law
+"My neighbor's pool noise disturbs peace",property_law
+"Supply chain attack on my vendors",cyber_crime
+"Someone hacked my smart home security",cyber_crime
+"I was victim of swatting",cyber_crime
+"Fake endorsement campaign",cyber_crime
+"Unauthorized access to my investment accounts",cyber_crime
+"Cyber attack on my manufacturing systems",cyber_crime
+"Someone stole my app source code",cyber_crime
+"Lottery scam through email",cyber_crime
+"Data breach at social security",cyber_crime
+"Phishing using QR code malware",cyber_crime
+"Serial killer targeting community",criminal_law
+"I was assaulted in an elevator",criminal_law
+"Someone stole my musical instruments",criminal_law
+"Drunk driving caused multiple injuries",criminal_law
+"Harassing emails from ex-partner",criminal_law
+"I witnessed a kidnapping attempt",criminal_law
+"Arson at shopping mall",criminal_law
+"Someone broke my windows",criminal_law
+"Counterfeiting of luxury goods",criminal_law
+"Stalking through following in person",criminal_law
+"The dentist performed unnecessary procedures",consumer_law
+"I bought a timeshare with hidden costs",consumer_law
+"The mortgage had adjustable rate not explained",consumer_law
+"I was served spoiled seafood",consumer_law
+"The product warranty was denied",consumer_law
+"Utility service continued after move",consumer_law
+"I received wrong size merchandise",consumer_law
+"The product had toxic substances",consumer_law
+"I was overbilled for consultations",consumer_law
+"Misleading energy efficiency ratings",consumer_law
+"The counselor showed bias in advising",education_law
+"The school district underfunded programs",education_law
+"I was denied study abroad program",education_law
+"Discrimination in faculty hiring",education_law
+"The university breached employment contract",education_law
+"My work study was terminated",education_law
+"The school failed to provide security",education_law
+"I was expelled for mental health issues",education_law
+"Unfair library access policies",education_law
+"The institution violated Clery Act",education_law
+"My partnership was sued by customers",business_law
+"The contractor failed building codes",business_law
+"I was accused of false light",business_law
+"The bylaws were amended unfairly",business_law
+"My competitor engaged in greenwashing",business_law
+"The company was defamed by employees",business_law
+"The seed funding was pulled",business_law
+"I was forced into class action lawsuit",business_law
+"Trade dress infringement",business_law
+"Customs duty dispute",business_law
+"My manager spreads gossip about me",labour_law
+"I was denied personal days",labour_law
+"The company monitors social media",labour_law
+"I work with radiation without monitoring",labour_law
+"My employer refused adoption leave",labour_law
+"I was fired for dating coworker",labour_law
+"Biased disciplinary hearings",labour_law
+"The workplace has poor lighting",labour_law
+"I was forced to attend company meetings unpaid",labour_law
+"My pension was miscalculated",labour_law
+"The warehouse has structural issues",property_law
+"My landlord increases rent annually",property_law
+"The property management is unresponsive",property_law
+"I was charged for repairs not done",property_law
+"The property taxes were miscalculated",property_law
+"My tenant violates noise ordinances",property_law
+"The lease agreement is confusing",property_law
+"I discovered the property has termites",property_law
+"The HOA board is authoritarian",property_law
+"My neighbor's dogs bark constantly",property_law
+"Insider threat from employee",cyber_crime
+"Someone hacked my fitness tracker",cyber_crime
+"I was victim of catfishing",cyber_crime
+"Fake charity campaign",cyber_crime
+"Unauthorized access to my insurance records",cyber_crime
+"Cyber attack on my logistics systems",cyber_crime
+"Someone stole my photography portfolio",cyber_crime
+"Vacation rental scam",cyber_crime
+"Data breach at DMV",cyber_crime
+"Phishing using SMS spoofing",cyber_crime
+"Organized crime extortion",criminal_law
+"I was assaulted in a restroom",criminal_law
+"Someone stole my golf clubs",criminal_law
+"Reckless driving caused spinal injury",criminal_law
+"Intimidating voicemails",criminal_law
+"I witnessed a bank robbery",criminal_law
+"Arson at abandoned building",criminal_law
+"Someone egged my car",criminal_law
+"Forgery of identification cards",criminal_law
+"Stalking through unwanted gifts",criminal_law
+"The contractor did substandard work",consumer_law
+"I bought a piano with tuning problems",consumer_law
+"The credit agreement had variable APR",consumer_law
+"I was served cold food at restaurant",consumer_law
+"The product warranty was prorated",consumer_law
+"Magazine delivery continued after stop",consumer_law
+"I received incomplete furniture assembly",consumer_law
+"The product had lead contamination",consumer_law
+"I was billed for free trial",consumer_law
+"False organic certification claims",consumer_law
+"The dean showed nepotism",education_law
+"The school district overcharged for supplies",education_law
+"I was denied advanced placement",education_law
+"Discrimination in club memberships",education_law
+"The college breached financial aid contract",education_law
+"My fellowship was revoked",education_law
+"The school failed to provide internet",education_law
+"I was disciplined for peaceful protest",education_law
+"Unfair final exam policies",education_law
+"The institution violated privacy rights",education_law
+"My nonprofit was sued by donors",business_law
+"The consultant failed professional standards",business_law
+"I was accused of right of publicity violation",business_law
+"The articles of incorporation were challenged",business_law
+"My competitor engaged in astroturfing",business_law
+"The business was defamed by competitors",business_law
+"The bridge loan was called",business_law
+"I was forced into bankruptcy mediation",business_law
+"Service mark infringement",business_law
+"Import quota violation",business_law
+"My supervisor ignores my contributions",labour_law
+"I was denied floating holidays",labour_law
+"The company monitors parking lot",labour_law
+"I work with chemicals without MSDS",labour_law
+"My employer refused domestic partner benefits",labour_law
+"I was fired for wearing hijab",labour_law
+"Biased investigation procedures",labour_law
+"The workplace has ergonomic issues",labour_law
+"I was forced to use vacation for sick days",labour_law
+"My severance was reduced",labour_law
+"The retail space has code issues",property_law
+"My landlord charges pet deposits",property_law
+"The property management is inefficient",property_law
+"I was charged for cleaning not needed",property_law
+"The property insurance was inadequate",property_law
+"My tenant hosts loud parties",property_law
+"The lease agreement is one-sided",property_law
+"I discovered the property has radon",property_law
+"The HOA rules are outdated",property_law
+"My neighbor's barbecue smoke enters my home",property_law
+"Third-party breach through vendor",cyber_crime
+"Someone hacked my drone",cyber_crime
+"I was victim of SIM swapping",cyber_crime
+"Fake crowdfunding campaign",cyber_crime
+"Unauthorized access to my retirement accounts",cyber_crime
+"Cyber attack on my POS systems",cyber_crime
+"Someone stole my graphic designs",cyber_crime
+"Timeshare presentation scam",cyber_crime
+"Data breach at pharmacy benefits manager",cyber_crime
+"Phishing using voice phishing",cyber_crime
+"Drug cartel violence",criminal_law
+"I was assaulted in a club",criminal_law
+"Someone stole my jewelry collection",criminal_law
+"Speeding caused wrongful death",criminal_law
+"Harassing letters from stranger",criminal_law
+"I witnessed a suicide attempt",criminal_law
+"Arson at forest preserve",criminal_law
+"Someone scratched my vehicle",criminal_law
+"Counterfeiting of software licenses",criminal_law
+"Stalking through unwanted contact",criminal_law
+"The tailor ruined my suit",consumer_law
+"I bought a camera with lens problems",consumer_law
+"The lease agreement had balloon payment",consumer_law
+"I was served incorrect order",consumer_law
+"The product warranty was limited",consumer_law
+"Newspaper continued after cancellation",consumer_law
+"I received damaged artwork",consumer_law
+"The product had mercury contamination",consumer_law
+"I was billed for estimate",consumer_law
+"False cruelty-free claims",consumer_law
+"The administrator showed favoritism",education_law
+"The school district misspent funds",education_law
+"I was denied tutoring services",education_law
+"Discrimination in award nominations",education_law
+"The university breached admission contract",education_law
+"My stipend was delayed",education_law
+"The school failed to provide lockers",education_law
+"I was punished for group project issues",education_law
+"Unfair makeup exam policies",education_law
+"The institution violated student rights",education_law
+"My cooperative was sued by members",business_law
+"The freelancer failed project requirements",business_law
+"I was accused of misappropriation",business_law
+"The bylaws were suspended",business_law
+"My competitor engaged in comparative advertising",business_law
+"The company was defamed by bloggers",business_law
+"The line of credit was frozen",business_law
+"I was forced into small claims court",business_law
+"Certification mark infringement",business_law
+"Sanctions compliance violation",business_law
+"My lead ignores my expertise",labour_law
+"I was denied comp time",labour_law
+"The company monitors break rooms",labour_law
+"I work with allergens without protection",labour_law
+"My employer refused sabbatical",labour_law
+"I was fired for union membership",labour_law
+"Biased promotion panels",labour_law
+"The workplace has noise issues",labour_law
+"I was forced to work holidays",labour_law
+"My stock options were clawed back",labour_law
+"The industrial property has contamination",property_law
+"My landlord charges application fees",property_law
+"The property management is corrupt",property_law
+"I was charged for maintenance included",property_law
+"The property value was overassessed",property_law
+"My tenant grows marijuana",property_law
+"The lease agreement is predatory",property_law
+"I discovered the property has meth lab history",property_law
+"The HOA enforces arbitrary rules",property_law
+"My neighbor's wind chimes are too loud",property_law
+"Cloud service provider breach",cyber_crime
+"Someone hacked my electric vehicle",cyber_crime
+"I was victim of credential stuffing",cyber_crime
+"Fake job offer campaign",cyber_crime
+"Unauthorized access to my mortgage records",cyber_crime
+"Cyber attack on my ERP systems",cyber_crime
+"Someone stole my music catalog",cyber_crime
+"Extended car warranty scam",cyber_crime
+"Data breach at background check service",cyber_crime
+"Phishing using malicious PDFs",cyber_crime
+"Human trafficking ring",criminal_law
+"I was assaulted in a store",criminal_law
+"Someone stole my coin collection",criminal_law
+"Texting while driving caused accident",criminal_law
+"Intimidating social media messages",criminal_law
+"I witnessed a drug overdose",criminal_law
+"Arson at community center",criminal_law
+"Someone dented my car door",criminal_law
+"Forgery of prescriptions",criminal_law
+"Stalking through unwanted phone calls",criminal_law
+"The jeweler sold fake diamonds",consumer_law
+"I bought a guitar with intonation problems",consumer_law
+"The rental agreement had early termination fees",consumer_law
+"I was served wrong dish",consumer_law
+"The product warranty was voided",consumer_law
+"Catalog delivery continued after stop",consumer_law
+"I received damaged sporting goods",consumer_law
+"The product had asbestos contamination",consumer_law
+"I was billed for consultation fee",consumer_law
+"False non-GMO claims",consumer_law
+"The coach showed bias",education_law
+"The school district underfunded sports",education_law
+"I was denied team tryouts",education_law
+"Discrimination in coaching assignments",education_law
+"The college breached athletic contract",education_law
+"My athletic scholarship was reduced",education_law
+"The school failed to provide equipment",education_law
+"I was benched for academic performance",education_law
+"Unfair eligibility requirements",education_law
+"The institution violated gender equity",education_law
+"My association was sued by regulators",business_law
+"The auditor failed professional standards",business_law
+"I was accused of unfair competition",business_law
+"The constitution was amended improperly",business_law
+"My competitor engaged in ambush marketing",business_law
+"The business was defamed by reviews",business_law
+"The venture capital pulled out",business_law
+"I was forced into arbitration",business_law
+"Collective mark infringement",business_law
+"Antitrust investigation",business_law
+"My coordinator assigns busywork",labour_law
+"I was denied mental health days",labour_law
+"The company monitors time clocks",labour_law
+"I work with pathogens without protocols",labour_law
+"My employer refused caregiver leave",labour_law
+"I was fired for whistleblower activity",labour_law
+"Biased grievance procedures",labour_law
+"The workplace has temperature issues",labour_law
+"I was forced to donate to company charity",labour_law
+"My profit sharing was miscalculated",labour_law
+"The residential complex has violations",property_law
+"My landlord charges late fees",property_law
+"The property management is negligent",property_law
+"I was charged for repairs not authorized",property_law
+"The property millage was incorrect",property_law
+"My tenant has excessive guests",property_law
+"The lease agreement is unenforceable",property_law
+"I discovered the property has unpermitted additions",property_law
+"The HOA board is ineffective",property_law
+"My neighbor's satellite dish blocks view",property_law
+"API compromise through third party",cyber_crime
+"Someone hacked my robot vacuum",cyber_crime
+"I was victim of business email compromise",cyber_crime
+"Fake investment seminar",cyber_crime
+"Unauthorized access to my credit reports",cyber_crime
+"Cyber attack on my CRM systems",cyber_crime
+"Someone stole my video content",cyber_crime
+"Home improvement scam",cyber_crime
+"Data breach at voter registration",cyber_crime
+"Phishing using calendar invites",cyber_crime
+"White collar crime ring",criminal_law
+"I was assaulted in a bar",criminal_law
+"Someone stole my art collection",criminal_law
+"Impaired driving caused brain injury",criminal_law
+"Harassing texts from unknown number",criminal_law
+"I witnessed a sexual assault",criminal_law
+"Arson at storage facility",criminal_law
+"Someone keyed my motorcycle",criminal_law
+"Counterfeiting of designer goods",criminal_law
+"Stalking through online tracking",criminal_law
+"The cleaner damaged my furniture",consumer_law
+"I bought a telescope with optical problems",consumer_law
+"The financing agreement had prepayment penalties",consumer_law
+"I was served underseasoned food",consumer_law
+"The product warranty was denied for misuse",consumer_law
+"Newsletter continued after unsubscribe",consumer_law
+"I received damaged electronics",consumer_law
+"The product had benzene contamination",consumer_law
+"I was billed for service call",consumer_law
+"False biodegradable claims",consumer_law
+"The registrar showed bias",education_law
+"The school district misallocated budgets",education_law
+"I was denied course registration",education_law
+"Discrimination in research opportunities",education_law
+"The university breached research agreement",education_law
+"My research grant was cut",education_law
+"The school failed to provide lab space",education_law
+"I was failed for attendance policy",education_law
+"Unfair grade appeal process",education_law
+"The institution violated research ethics",education_law
+"My foundation was sued by beneficiaries",business_law
+"The translator failed accuracy standards",business_law
+"I was accused of disparagement",business_law
+"The charter was revoked improperly",business_law
+"My competitor engaged in product disparagement",business_law
+"The company was defamed by ex-employees",business_law
+"The angel investment fell through",business_law
+"I was forced into mediation",business_law
+"Trade name infringement",business_law
+"Environmental compliance violation",business_law

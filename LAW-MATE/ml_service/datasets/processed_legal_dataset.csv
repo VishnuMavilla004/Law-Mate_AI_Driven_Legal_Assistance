@@ -1,0 +1,915 @@
+case_text,case_type,severity_score,court_level,timestamp,case_type_encoded
+Writ petition seeking justice against government,taxation,0.3,supreme_court,2026-03-26T10:01:20.028550,12
+Mobile phone not working after 1 month,consumer_rights,0.2,user_input,2026-03-26T10:01:20.028550,3
+Neighbor nuisance complaint,civil_dispute,0.3,user_input,2026-03-26T10:01:20.028550,1
+Marriage dispute with in-laws,family_law,0.7,user_input,2026-03-26T10:01:20.028550,8
+FIR registered for cyber crime at commercial complex,criminal_law,0.9,police_station,2026-03-26T10:01:20.028550,6
+Vendor not delivering goods,contract_dispute,0.4,user_input,2026-03-26T10:01:20.028550,4
+Family dispute petition for partition,family_law,0.7,district_court,2026-03-26T10:01:20.028550,8
+Complaint regarding theft involving family members,criminal_law,1.0,police_station,2026-03-26T10:01:20.028550,6
+Product warranty not honored,consumer_rights,0.2,user_input,2026-03-26T10:01:20.028550,3
+Burglary in my house,criminal_law,0.9,user_input,2026-03-26T10:01:20.028550,6
+Employer fired me without notice,labor_law,0.8,user_input,2026-03-25T10:01:20.028550,9
+Child custody battle,family_law,0.6,user_input,2026-03-25T10:01:20.028550,8
+General dispute with person,civil_dispute,0.4,user_input,2026-03-25T10:01:20.028550,1
+Fraud by online scammer,criminal_law,1.0,user_input,2026-03-25T10:01:20.028550,6
+Civil appeal regarding inheritance dispute,criminal_appeal,0.8,supreme_court,2026-03-25T10:01:20.028550,5
+Police report of assault under 444 IPC,criminal_law,1.0,police_station,2026-03-25T10:01:20.028550,6
+Someone stole my wallet,criminal_law,0.9,user_input,2026-03-25T10:01:20.028550,6
+Labor dispute regarding wages,labor_law,0.8,high_court,2026-03-25T10:01:20.028550,9
+Criminal case filed for property damage against organization,criminal_law,0.9,police_station,2026-03-25T10:01:20.028550,6
+Police report of assault under 383 IPC,criminal_law,1.0,police_station,2026-03-25T10:01:20.028550,6
+Petition challenging privacy violation under Article 28 of Constitution,criminal_appeal,0.8,supreme_court,2026-03-24T10:01:20.028550,5
+Consumer complaint against defective in electronics,civil_dispute,0.3,district_court,2026-03-24T10:01:20.028550,1
+Criminal case filed for property damage against individual,criminal_law,0.9,police_station,2026-03-24T10:01:20.028550,6
+Criminal appeal challenging conviction under 368 IPC,taxation,0.3,supreme_court,2026-03-24T10:01:20.028550,12
+Property dispute with family,property_dispute,0.6,user_input,2026-03-24T10:01:20.028550,10
+Petition challenging privacy violation under Article 18 of Constitution,criminal_appeal,0.8,supreme_court,2026-03-24T10:01:20.028550,5
+Civil appeal regarding contract dispute,taxation,0.4,supreme_court,2026-03-24T10:01:20.028550,12
+Civil appeal regarding land dispute,criminal_appeal,0.8,supreme_court,2026-03-24T10:01:20.028550,5
+Family court petition for adoption,family_law,0.6,high_court,2026-03-24T10:01:20.028550,8
+Criminal complaint under 477 IPC,consumer_rights,0.2,district_court,2026-03-23T10:01:20.028550,3
+FIR registered for domestic violence at public place,criminal_law,1.0,police_station,2026-03-23T10:01:20.028550,6
+Criminal revision petition against sentence,labor_law,0.7,high_court,2026-03-22T10:01:20.028550,9
+Police report of theft under 413 IPC,criminal_law,1.0,police_station,2026-03-22T10:01:20.028550,6
+Criminal revision petition against acquittal,family_law,0.6,high_court,2026-03-22T10:01:20.028550,8
+Bought defective product from store,consumer_rights,0.2,user_input,2026-03-22T10:01:20.028550,3
+Contract breach by supplier,contract_dispute,0.5,user_input,2026-03-22T10:01:20.028550,4
+Complaint regarding harassment involving neighbors,criminal_law,1.0,police_station,2026-03-21T10:01:20.028550,6
+Criminal revision petition against conviction,labor_law,0.7,high_court,2026-03-21T10:01:20.028550,9
+Contract breach case seeking specific performance,property_dispute,0.6,high_court,2026-03-21T10:01:20.028550,10
+Criminal case filed for physical harm against organization,criminal_law,0.9,police_station,2026-03-21T10:01:20.028550,6
+Appeal against High Court judgment in criminal_appeal matter,criminal_appeal,0.7,supreme_court,2026-03-21T10:01:20.028550,5
+Complaint regarding assault involving family members,criminal_law,1.0,police_station,2026-03-20T10:01:20.028550,6
+Criminal complaint under 400 IPC,civil_dispute,0.3,district_court,2026-03-20T10:01:20.028550,1
+FIR registered for cyber crime at residential area,criminal_law,0.9,police_station,2026-03-20T10:01:20.028550,6
+Petition challenging right to life under Article 19 of Constitution,criminal_appeal,0.7,supreme_court,2026-03-19T10:01:20.028550,5
+Appeal against High Court judgment in service_matters matter,service_matters,0.5,supreme_court,2026-03-19T10:01:20.028550,11
+Criminal appeal challenging conviction under 395 IPC,civil_appeal,0.4,supreme_court,2026-03-19T10:01:20.028550,0
+Domestic violence by husband,family_law,0.9,user_input,2026-03-19T10:01:20.028550,8
+Writ petition seeking justice against state authority,civil_appeal,0.4,supreme_court,2026-03-19T10:01:20.028550,0
+Online shopping fraud,consumer_rights,0.3,user_input,2026-03-19T10:01:20.028550,3
+Boundary dispute,civil_dispute,0.4,user_input,2026-03-19T10:01:20.028550,1
+Family dispute petition for maintenance,family_law,0.7,district_court,2026-03-19T10:01:20.028550,8
+Family court petition for divorce,property_dispute,0.5,high_court,2026-03-19T10:01:20.028550,10
+Consumer complaint against misleading in vehicle,civil_dispute,0.3,district_court,2026-03-18T10:01:20.028550,1
+Builder delayed possession of flat,property_dispute,0.6,user_input,2026-03-18T10:01:20.028550,10
+FIR registered for fraud at public place,criminal_law,1.0,police_station,2026-03-18T10:01:20.028550,6
+Criminal appeal challenging conviction under 401 IPC,civil_appeal,0.4,supreme_court,2026-03-18T10:01:20.028550,0
+Civil suit for recovery of ₹1033507 regarding loan,civil_dispute,0.3,district_court,2026-03-18T10:01:20.028550,1
+Complaint regarding fraudulent transaction involving family members,criminal_law,1.0,police_station,2026-03-18T10:01:20.028550,6
+Civil suit for recovery of ₹3984710 regarding loan,family_law,0.6,district_court,2026-03-18T10:01:20.028550,8
+Criminal appeal challenging conviction under 409 IPC,constitutional_law,0.8,supreme_court,2026-03-18T10:01:20.028550,2
+Harassment by ex-partner,criminal_law,1.0,user_input,2026-03-18T10:01:20.028550,6
+Family property partition,family_law,0.6,user_input,2026-03-18T10:01:20.028550,8
+Appeal against High Court judgment in civil_appeal matter,civil_appeal,0.4,supreme_court,2026-03-18T10:01:20.028550,0
+Writ petition seeking compensation against state authority,civil_appeal,0.4,supreme_court,2026-03-17T10:01:20.028550,0
+Petition challenging discrimination under Article 24 of Constitution,taxation,0.3,supreme_court,2026-03-17T10:01:20.028550,12
+Salary delay every month,labor_law,0.8,user_input,2026-03-17T10:01:20.028550,9
+Writ petition seeking compensation against government,civil_appeal,0.4,supreme_court,2026-03-16T10:01:20.028550,0
+No overtime pay for extra hours worked,labor_law,0.7,user_input,2026-03-16T10:01:20.028550,9
+Police report of criminal intimidation under 437 IPC,criminal_law,0.9,police_station,2026-03-16T10:01:20.028550,6
+Family court petition for custody,family_law,0.6,high_court,2026-03-16T10:01:20.028550,8
+Suit for injunction in contract_dispute dispute,contract_dispute,0.5,high_court,2026-03-16T10:01:20.028550,4
+Family court petition for maintenance,contract_dispute,0.4,high_court,2026-03-16T10:01:20.028550,4
+Appeal against High Court judgment in taxation matter,taxation,0.3,supreme_court,2026-03-16T10:01:20.028550,12
+Family dispute petition for dissolution,family_law,0.7,district_court,2026-03-15T10:01:20.028550,8
+Money lent not returned,civil_dispute,0.3,user_input,2026-03-15T10:01:20.028550,1
+Apartment maintenance issues,property_dispute,0.5,user_input,2026-03-15T10:01:20.028550,10
+Criminal complaint under 443 IPC,criminal_trial,0.8,district_court,2026-03-15T10:01:20.028550,7
+Police report of assault under 414 IPC,criminal_law,1.0,police_station,2026-03-14T10:01:20.028550,6
+Civil suit for recovery of ₹353463 regarding services,criminal_trial,0.8,district_court,2026-03-14T10:01:20.028550,7
+Spouse not giving maintenance,family_law,0.6,user_input,2026-03-14T10:01:20.028550,8
+Insurance claim rejected unfairly,consumer_rights,0.2,user_input,2026-03-14T10:01:20.028550,3
+Parking space issue,civil_dispute,0.3,user_input,2026-03-14T10:01:20.028550,1
+Petition challenging freedom of speech under Article 22 of Constitution,service_matters,0.5,supreme_court,2026-03-13T10:01:20.028550,11
+FIR registered for domestic violence at commercial complex,criminal_law,1.0,police_station,2026-03-12T10:01:20.028550,6
+Writ petition seeking compensation against corporation,taxation,0.3,supreme_court,2026-03-12T10:01:20.028550,12
+Landlord not returning security deposit,property_dispute,0.5,user_input,2026-03-12T10:01:20.028550,10
+Criminal appeal challenging conviction under 306 IPC,constitutional_law,0.8,supreme_court,2026-03-12T10:01:20.028550,2
+Unfair termination from job,labor_law,0.8,user_input,2026-03-11T10:01:20.028550,9
+Petition challenging discrimination under Article 15 of Constitution,constitutional_law,0.8,supreme_court,2026-03-11T10:01:20.028550,2
+Criminal case filed for property damage against business,criminal_law,0.9,police_station,2026-03-11T10:01:20.028550,6
+FIR registered for cyber crime at workplace,criminal_law,0.9,police_station,2026-03-11T10:01:20.028550,6
+Contract breach case seeking compensation,property_dispute,0.6,high_court,2026-03-11T10:01:20.028550,10
+Workplace harassment by manager,labor_law,1.0,user_input,2026-03-10T10:01:20.028550,9
+Writ petition seeking justice against corporation,civil_appeal,0.4,supreme_court,2026-03-10T10:01:20.028550,0
+Civil suit for recovery of ₹2335278 regarding goods,criminal_trial,0.8,district_court,2026-03-10T10:01:20.028550,7
+Suit for possession in property_dispute dispute,property_dispute,0.6,high_court,2026-03-10T10:01:20.028550,10
+Dispute over loan repayment,civil_dispute,0.4,user_input,2026-03-10T10:01:20.028550,1
+Bank charged extra fees,consumer_rights,0.2,user_input,2026-03-09T10:01:20.028550,3
+Consumer complaint against substandard in appliance,consumer_rights,0.2,district_court,2026-03-09T10:01:20.028550,3
+Writ petition seeking quashing of order against corporation,civil_appeal,0.4,supreme_court,2026-03-09T10:01:20.028550,0
+Cyber crime on my account,criminal_law,0.9,user_input,2026-03-09T10:01:20.028550,6
+Criminal appeal challenging conviction under 403 IPC,civil_appeal,0.4,supreme_court,2026-03-09T10:01:20.028550,0
+Not getting paid for work done,labor_law,0.7,user_input,2026-03-09T10:01:20.028550,9
+Criminal complaint under 503 IPC,family_law,0.6,district_court,2026-03-08T10:01:20.028550,8
+Petition challenging freedom of speech under Article 31 of Constitution,service_matters,0.5,supreme_court,2026-03-08T10:01:20.028550,11
+Petition challenging privacy violation under Article 32 of Constitution,constitutional_law,0.9,supreme_court,2026-03-08T10:01:20.028550,2
+Civil suit for recovery of ₹1097786 regarding services,consumer_rights,0.2,district_court,2026-03-07T10:01:20.028550,3
+Criminal appeal challenging conviction under 348 IPC,service_matters,0.5,supreme_court,2026-03-06T10:01:20.028550,11
+Suit for injunction in property_dispute dispute,property_dispute,0.6,high_court,2026-03-06T10:01:20.028550,10
+Adoption process for child,family_law,0.6,user_input,2026-03-06T10:01:20.028550,8
+Consumer complaint against substandard in service,civil_dispute,0.3,district_court,2026-03-05T10:01:20.028550,1
+Assaulted by unknown person,criminal_law,1.0,user_input,2026-03-05T10:01:20.028550,6
+Criminal complaint under 364 IPC,family_law,0.6,district_court,2026-03-05T10:01:20.028550,8
+FIR registered for fraud at residential area,criminal_law,1.0,police_station,2026-03-05T10:01:20.028550,6
+Civil suit for recovery of ₹3809727 regarding property,criminal_trial,0.8,district_court,2026-03-05T10:01:20.028550,7
+Civil suit for recovery of ₹112492 regarding property,criminal_trial,0.8,district_court,2026-03-05T10:01:20.028550,7
+Criminal appeal challenging conviction under 377 IPC,civil_appeal,0.4,supreme_court,2026-03-04T10:01:20.028550,0
+Petition challenging freedom of speech under Article 30 of Constitution,constitutional_law,0.8,supreme_court,2026-03-04T10:01:20.028550,2
+FIR registered for fraud at commercial complex,criminal_law,1.0,police_station,2026-03-04T10:01:20.028550,6
+Boundary wall dispute with neighbor,property_dispute,0.6,user_input,2026-03-04T10:01:20.028550,10
+Consumer complaint against misleading in electronics,criminal_trial,0.8,district_court,2026-03-03T10:01:20.028550,7
+Neighbor encroaching on my property,property_dispute,0.5,user_input,2026-03-02T10:01:20.028550,10
+Appeal against High Court judgment in constitutional_law matter,constitutional_law,1.0,supreme_court,2026-03-02T10:01:20.028550,2
+Want to divorce my spouse,family_law,0.6,user_input,2026-03-02T10:01:20.028550,8
+Police report of criminal intimidation under 479 IPC,criminal_law,0.9,police_station,2026-03-02T10:01:20.028550,6
+Petition challenging freedom of speech under Article 14 of Constitution,constitutional_law,0.8,supreme_court,2026-03-01T10:01:20.028550,2
+Criminal complaint under 343 IPC,criminal_trial,0.8,district_court,2026-03-01T10:01:20.028550,7
+Police report of criminal intimidation under 459 IPC,criminal_law,0.9,police_station,2026-03-01T10:01:20.028550,6
+Criminal case filed for physical harm against individual,criminal_law,0.9,police_station,2026-03-01T10:01:20.028550,6
+Criminal case filed for privacy breach against individual,criminal_law,1.0,police_station,2026-02-28T10:01:20.028550,6
+Payment dispute with contractor,contract_dispute,0.5,user_input,2026-02-28T10:01:20.028550,4
+Consumer complaint against defective in vehicle,criminal_trial,0.8,district_court,2026-02-28T10:01:20.028550,7
+Petition challenging right to life under Article 24 of Constitution,service_matters,0.5,supreme_court,2026-02-27T10:01:20.028550,11
+FIR registered for assault at commercial complex,criminal_law,1.0,police_station,2026-02-27T10:01:20.028550,6
+Labor dispute regarding termination,family_law,0.7,high_court,2026-02-27T10:01:20.028550,8
+Suit for possession in criminal_law dispute,criminal_law,1.0,high_court,2026-02-27T10:01:20.028550,6
+Consumer complaint against misleading in appliance,civil_dispute,0.3,district_court,2026-02-26T10:01:20.028550,1
+Criminal complaint under 490 IPC,criminal_trial,0.8,district_court,2026-02-26T10:01:20.028550,7
+Civil suit for recovery of ₹2534771 regarding property,family_law,0.6,district_court,2026-02-26T10:01:20.028550,8
+Complaint regarding theft involving colleagues,criminal_law,1.0,police_station,2026-02-25T10:01:20.028550,6
+Maintenance for children,family_law,0.6,user_input,2026-02-25T10:01:20.028550,8
+Police report of theft under 504 IPC,criminal_law,1.0,police_station,2026-02-25T10:01:20.028550,6
+Consumer complaint against substandard in electronics,civil_dispute,0.3,district_court,2026-02-25T10:01:20.028550,1
+Car dealer gave faulty vehicle,consumer_rights,0.2,user_input,2026-02-25T10:01:20.028550,3
+Threatened by neighbor,criminal_law,1.0,user_input,2026-02-24T10:01:20.028550,6
+Police report of criminal intimidation under 392 IPC,criminal_law,0.9,police_station,2026-02-24T10:01:20.028550,6
+Police report of theft under 510 IPC,criminal_law,1.0,police_station,2026-02-24T10:01:20.028550,6
+Agreement violation by company,contract_dispute,0.5,user_input,2026-02-24T10:01:20.028550,4
+Complaint regarding assault involving neighbors,criminal_law,1.0,police_station,2026-02-24T10:01:20.028550,6
+Complaint regarding fraudulent transaction involving colleagues,criminal_law,1.0,police_station,2026-02-24T10:01:20.028550,6
+Consumer complaint against defective in service,family_law,0.6,district_court,2026-02-23T10:01:20.028550,8
+Criminal appeal challenging conviction under 413 IPC,civil_appeal,0.4,supreme_court,2026-02-23T10:01:20.028550,0
+Contract breach case seeking refund,family_law,0.7,high_court,2026-02-22T10:01:20.028550,8
+Petition challenging freedom of speech under Article 18 of Constitution,taxation,0.3,supreme_court,2026-02-22T10:01:20.028550,12
+FIR registered for fraud at workplace,criminal_law,1.0,police_station,2026-02-22T10:01:20.028550,6
+Civil suit for recovery of ₹2509096 regarding loan,consumer_rights,0.2,district_court,2026-02-21T10:01:20.028550,3
+Criminal appeal challenging conviction under 314 IPC,civil_appeal,0.4,supreme_court,2026-02-21T10:01:20.028550,0
+Criminal complaint under 328 IPC,criminal_trial,0.8,district_court,2026-02-21T10:01:20.028550,7
+Complaint regarding fraudulent transaction involving neighbors,criminal_law,1.0,police_station,2026-02-21T10:01:20.028550,6
+Writ petition seeking quashing of order against state authority,criminal_appeal,0.7,supreme_court,2026-02-21T10:01:20.028550,5
+Complaint regarding theft involving neighbors,criminal_law,1.0,police_station,2026-02-20T10:01:20.028550,6
+Civil suit for recovery of ₹2338977 regarding property,civil_dispute,0.3,district_court,2026-02-20T10:01:20.028550,1
+Suit for damages in contract_dispute dispute,contract_dispute,0.5,high_court,2026-02-16T10:01:20.028550,4
+Petition challenging privacy violation under Article 26 of Constitution,taxation,0.4,supreme_court,2026-02-15T10:01:20.028550,12
+Civil suit for recovery of ₹4347569 regarding services,civil_dispute,0.3,district_court,2026-02-15T10:01:20.028550,1
+My boss hasn't paid my salary for 2 months,labor_law,0.7,user_input,2026-02-15T10:01:20.028550,9
+Rent not returned by tenant,property_dispute,0.5,user_input,2026-02-14T10:01:20.028550,10
+Civil suit for recovery of ₹3879510 regarding property,family_law,0.6,district_court,2026-02-14T10:01:20.028550,8
+Criminal complaint under 406 IPC,criminal_trial,0.8,district_court,2026-02-14T10:01:20.028550,7
+FIR registered for assault at residential area,criminal_law,1.0,police_station,2026-02-14T10:01:20.028550,6
+Writ petition seeking quashing of order against government,service_matters,0.5,supreme_court,2026-02-14T10:01:20.028550,11
+Police report of criminal intimidation under 402 IPC,criminal_law,0.9,police_station,2026-02-14T10:01:20.028550,6
+Suit for declaration in property_dispute dispute,property_dispute,0.6,high_court,2026-02-13T10:01:20.028550,10
+Criminal complaint under 425 IPC,criminal_trial,0.8,district_court,2026-02-13T10:01:20.028550,7
+Suit for possession in family_law dispute,family_law,0.7,high_court,2026-02-13T10:01:20.028550,8
+Theft at workplace,criminal_law,1.0,user_input,2026-02-12T10:01:20.028550,6
+Police report of criminal intimidation under 403 IPC,criminal_law,0.9,police_station,2026-02-12T10:01:20.028550,6
+FIR registered for assault at workplace,criminal_law,1.0,police_station,2026-02-12T10:01:20.028550,6
+Consumer complaint against substandard in vehicle,family_law,0.6,district_court,2026-02-11T10:01:20.028550,8
+Service provider breach of contract,contract_dispute,0.5,user_input,2026-02-11T10:01:20.028550,4
+Business partner cheated me,contract_dispute,0.4,user_input,2026-02-11T10:01:20.028550,4
+Criminal complaint under 435 IPC,civil_dispute,0.3,district_court,2026-02-11T10:01:20.028550,1
+Business deal gone wrong,contract_dispute,0.4,user_input,2026-02-11T10:01:20.028550,4
+Criminal case filed for physical harm against business,criminal_law,0.9,police_station,2026-02-10T10:01:20.028550,6
+Criminal appeal challenging conviction under 415 IPC,civil_appeal,0.4,supreme_court,2026-02-09T10:01:20.028550,0
+Police report of cheating under 460 IPC,criminal_law,0.9,police_station,2026-02-09T10:01:20.028550,6
+FIR registered for theft at workplace,criminal_law,1.0,police_station,2026-02-08T10:01:20.028550,6
+FIR registered for theft at commercial complex,criminal_law,1.0,police_station,2026-02-07T10:01:20.028550,6
+Noise pollution complaint,civil_dispute,0.3,user_input,2026-02-07T10:01:20.028550,1
+Police report of criminal intimidation under 412 IPC,criminal_law,0.9,police_station,2026-02-06T10:01:20.028550,6
+Criminal complaint under 438 IPC,family_law,0.6,district_court,2026-02-05T10:01:20.028550,8
+Client not paying for services,contract_dispute,0.4,user_input,2026-02-05T10:01:20.028550,4
+Criminal complaint under 434 IPC,criminal_trial,0.8,district_court,2026-02-05T10:01:20.028550,7
+Petition challenging right to life under Article 14 of Constitution,criminal_appeal,0.7,supreme_court,2026-02-04T10:01:20.028550,5
+Police report of theft under 479 IPC,criminal_law,1.0,police_station,2026-02-03T10:01:20.028550,6
+Petition challenging freedom of speech under Article 16 of Constitution,constitutional_law,0.8,supreme_court,2026-02-03T10:01:20.028550,2
+Complaint regarding assault involving colleagues,criminal_law,1.0,police_station,2026-02-03T10:01:20.028550,6
+Police report of theft under 385 IPC,criminal_law,1.0,police_station,2026-02-03T10:01:20.028550,6
+Civil suit for recovery of ₹2401579 regarding services,criminal_trial,0.8,district_court,2026-02-02T10:01:20.028550,7
+Suit for declaration in family_law dispute,family_law,0.7,high_court,2026-02-02T10:01:20.028550,8
+Consumer complaint against misleading in service,consumer_rights,0.2,district_court,2026-02-01T10:01:20.028550,3
+Civil suit for recovery of ₹4605226 regarding loan,family_law,0.6,district_court,2026-02-01T10:01:20.028550,8
+Criminal complaint under 402 IPC,consumer_rights,0.2,district_court,2026-01-31T10:01:20.028550,3
+Labor dispute regarding working conditions,labor_law,0.8,high_court,2026-01-31T10:01:20.028550,9
+Petition challenging discrimination under Article 22 of Constitution,service_matters,0.5,supreme_court,2026-01-31T10:01:20.028550,11
+Police report of assault under 494 IPC,criminal_law,1.0,police_station,2026-01-31T10:01:20.028550,6
+Suit for injunction in family_law dispute,family_law,0.7,high_court,2026-01-28T10:01:20.028550,8
+Criminal appeal challenging conviction under 398 IPC,civil_appeal,0.4,supreme_court,2026-01-28T10:01:20.028550,0
+Police report of theft under 458 IPC,criminal_law,1.0,police_station,2026-01-27T10:01:20.028550,6
+Criminal appeal challenging conviction under 394 IPC,taxation,0.3,supreme_court,2026-01-27T10:01:20.028550,12
+Police report of criminal intimidation under 460 IPC,criminal_law,0.9,police_station,2026-01-27T10:01:20.028550,6
+Petition challenging right to life under Article 18 of Constitution,service_matters,0.5,supreme_court,2026-01-26T10:01:20.028550,11
+Civil suit for recovery of ₹605537 regarding property,criminal_trial,0.8,district_court,2026-01-26T10:01:20.028550,7
+Complaint regarding theft involving strangers,criminal_law,1.0,police_station,2026-01-26T10:01:20.028550,6
+House owner not giving possession,property_dispute,0.5,user_input,2026-01-26T10:01:20.028550,10
+Criminal appeal challenging conviction under 406 IPC,service_matters,0.5,supreme_court,2026-01-26T10:01:20.028550,11
+Petition challenging privacy violation under Article 17 of Constitution,taxation,0.4,supreme_court,2026-01-26T10:01:20.028550,12
+Criminal appeal challenging conviction under 366 IPC,service_matters,0.5,supreme_court,2026-01-25T10:01:20.028550,11
+Civil suit for recovery of ₹2574788 regarding goods,consumer_rights,0.2,district_court,2026-01-24T10:01:20.028550,3
+Suit for possession in labor_law dispute,labor_law,0.8,high_court,2026-01-24T10:01:20.028550,9
+Petition challenging discrimination under Article 23 of Constitution,constitutional_law,0.8,supreme_court,2026-01-24T10:01:20.028550,2
+Complaint regarding fraudulent transaction involving strangers,criminal_law,1.0,police_station,2026-01-24T10:01:20.028550,6
+Police report of theft under 459 IPC,criminal_law,1.0,police_station,2026-01-24T10:01:20.028550,6
+Criminal complaint under 368 IPC,civil_dispute,0.3,district_court,2026-01-23T10:01:20.028550,1
+Water supply dispute,civil_dispute,0.4,user_input,2026-01-23T10:01:20.028550,1
+Contract employee not getting benefits,labor_law,0.7,user_input,2026-01-23T10:01:20.028550,9
+Suit for declaration in contract_dispute dispute,contract_dispute,0.5,high_court,2026-01-23T10:01:20.028550,4
+Criminal complaint under 348 IPC,criminal_trial,0.8,district_court,2026-01-22T10:01:20.028550,7
+FIR registered for cyber crime at public place,criminal_law,0.9,police_station,2026-01-22T10:01:20.028550,6
+Petition challenging freedom of speech under Article 27 of Constitution,taxation,0.3,supreme_court,2026-01-22T10:01:20.028550,12
+Petition challenging discrimination under Article 26 of Constitution,constitutional_law,0.8,supreme_court,2026-01-22T10:01:20.028550,2
+Criminal appeal challenging conviction under 317 IPC,constitutional_law,0.8,supreme_court,2026-01-21T10:01:20.028550,2
+Petition challenging privacy violation under Article 31 of Constitution,criminal_appeal,0.8,supreme_court,2026-01-20T10:01:20.028550,5
+Suit for damages in labor_law dispute,labor_law,0.8,high_court,2026-01-18T10:01:20.028550,9
+Police report of assault under 417 IPC,criminal_law,1.0,police_station,2026-01-18T10:01:20.028550,6
+Civil suit for recovery of ₹4042220 regarding goods,consumer_rights,0.2,district_court,2026-01-18T10:01:20.028550,3
+Police report of cheating under 494 IPC,criminal_law,0.9,police_station,2026-01-18T10:01:20.028550,6
+Complaint regarding harassment involving colleagues,criminal_law,1.0,police_station,2026-01-16T10:01:20.028550,6
+Criminal complaint under 329 IPC,consumer_rights,0.2,district_court,2026-01-15T10:01:20.028550,3
+Police report of criminal intimidation under 435 IPC,criminal_law,0.9,police_station,2026-01-14T10:01:20.028550,6
+Complaint regarding assault involving strangers,criminal_law,1.0,police_station,2026-01-13T10:01:20.028550,6
+Criminal appeal challenging conviction under 414 IPC,criminal_appeal,0.7,supreme_court,2026-01-13T10:01:20.028550,5
+Suit for possession in contract_dispute dispute,contract_dispute,0.5,high_court,2026-01-12T10:01:20.028550,4
+Criminal complaint under 476 IPC,consumer_rights,0.2,district_court,2026-01-12T10:01:20.028550,3
+Criminal complaint under 352 IPC,consumer_rights,0.2,district_court,2026-01-12T10:01:20.028550,3
+Civil suit for recovery of ₹4684269 regarding goods,civil_dispute,0.3,district_court,2026-01-12T10:01:20.028550,1
+Suit for injunction in labor_law dispute,labor_law,0.8,high_court,2026-01-12T10:01:20.028550,9
+Criminal case filed for privacy breach against business,criminal_law,1.0,police_station,2026-01-11T10:01:20.028550,6
+Criminal appeal challenging conviction under 318 IPC,civil_appeal,0.4,supreme_court,2026-01-11T10:01:20.028550,0
+Civil suit for recovery of ₹777119 regarding loan,criminal_trial,0.8,district_court,2026-01-10T10:01:20.028550,7
+Criminal complaint under 396 IPC,family_law,0.6,district_court,2026-01-10T10:01:20.028550,8
+Criminal complaint under 405 IPC,criminal_trial,0.8,district_court,2026-01-09T10:01:20.028550,7
+Civil suit for recovery of ₹1960427 regarding goods,civil_dispute,0.3,district_court,2026-01-09T10:01:20.028550,1
+Police report of theft under 433 IPC,criminal_law,1.0,police_station,2026-01-08T10:01:20.028550,6
+Civil suit for recovery of ₹2631759 regarding goods,civil_dispute,0.3,district_court,2026-01-08T10:01:20.028550,1
+Suit for injunction in criminal_law dispute,criminal_law,1.0,high_court,2026-01-08T10:01:20.028550,6
+Police report of cheating under 448 IPC,criminal_law,0.9,police_station,2026-01-07T10:01:20.028550,6
+Police report of assault under 410 IPC,criminal_law,1.0,police_station,2026-01-06T10:01:20.028550,6
+Petition challenging privacy violation under Article 24 of Constitution,constitutional_law,0.9,supreme_court,2026-01-05T10:01:20.028550,2
+Criminal complaint under 426 IPC,family_law,0.6,district_court,2026-01-05T10:01:20.028550,8
+Criminal appeal challenging conviction under 408 IPC,criminal_appeal,0.7,supreme_court,2026-01-04T10:01:20.028550,5
+Suit for declaration in labor_law dispute,labor_law,0.8,high_court,2026-01-04T10:01:20.028550,9
+Police report of cheating under 495 IPC,criminal_law,0.9,police_station,2026-01-04T10:01:20.028550,6
+My boss hasn't paid my salary for 3 months,labor_law,0.7,user_input,2026-01-03T10:01:20.028550,9
+Criminal complaint under 422 IPC,civil_dispute,0.3,district_court,2026-01-02T10:01:20.028550,1
+Police report of assault under 388 IPC,criminal_law,1.0,police_station,2026-01-02T10:01:20.028550,6
+Criminal complaint under 367 IPC,civil_dispute,0.3,district_court,2026-01-02T10:01:20.028550,1
+Criminal complaint under 492 IPC,family_law,0.6,district_court,2026-01-01T10:01:20.028550,8
+Petition challenging discrimination under Article 17 of Constitution,criminal_appeal,0.7,supreme_court,2026-01-01T10:01:20.028550,5
+Police report of assault under 398 IPC,criminal_law,1.0,police_station,2026-01-01T10:01:20.028550,6
+Petition challenging privacy violation under Article 27 of Constitution,taxation,0.4,supreme_court,2025-12-31T10:01:20.028550,12
+Police report of criminal intimidation under 396 IPC,criminal_law,0.9,police_station,2025-12-31T10:01:20.028550,6
+Petition challenging freedom of speech under Article 23 of Constitution,criminal_appeal,0.7,supreme_court,2025-12-29T10:01:20.028550,5
+Police report of assault under 481 IPC,criminal_law,1.0,police_station,2025-12-28T10:01:20.028550,6
+Criminal complaint under 416 IPC,consumer_rights,0.2,district_court,2025-12-28T10:01:20.028550,3
+Petition challenging privacy violation under Article 16 of Constitution,service_matters,0.6,supreme_court,2025-12-27T10:01:20.028550,11
+Suit for declaration in criminal_law dispute,criminal_law,1.0,high_court,2025-12-26T10:01:20.028550,6
+Police report of assault under 401 IPC,criminal_law,1.0,police_station,2025-12-25T10:01:20.028550,6
+Criminal appeal challenging conviction under 396 IPC,taxation,0.3,supreme_court,2025-12-23T10:01:20.028550,12
+Criminal complaint under 452 IPC,consumer_rights,0.2,district_court,2025-12-23T10:01:20.028550,3
+Civil suit for recovery of ₹3502119 regarding goods,consumer_rights,0.2,district_court,2025-12-23T10:01:20.028550,3
+Civil suit for recovery of ₹2702599 regarding goods,criminal_trial,0.8,district_court,2025-12-23T10:01:20.028550,7
+Service quality very poor,consumer_rights,0.2,user_input,2025-12-23T10:01:20.028550,3
+Criminal complaint under 356 IPC,consumer_rights,0.2,district_court,2025-12-22T10:01:20.028550,3
+Civil suit for recovery of ₹303469 regarding services,consumer_rights,0.2,district_court,2025-12-21T10:01:20.028550,3
+Petition challenging right to life under Article 26 of Constitution,criminal_appeal,0.7,supreme_court,2025-12-21T10:01:20.028550,5
+My boss hasn't paid my salary for 4 months,labor_law,0.7,user_input,2025-12-21T10:01:20.028550,9
+Civil suit for recovery of ₹2805253 regarding services,civil_dispute,0.3,district_court,2025-12-21T10:01:20.028550,1
+Criminal appeal challenging conviction under 386 IPC,civil_appeal,0.4,supreme_court,2025-12-20T10:01:20.028550,0
+Criminal appeal challenging conviction under 385 IPC,taxation,0.3,supreme_court,2025-12-20T10:01:20.028550,12
+Criminal appeal challenging conviction under 353 IPC,service_matters,0.5,supreme_court,2025-12-19T10:01:20.028550,11
+Civil suit for recovery of ₹4182084 regarding services,criminal_trial,0.8,district_court,2025-12-17T10:01:20.028550,7
+Consumer complaint against defective in appliance,criminal_trial,0.8,district_court,2025-12-16T10:01:20.028550,7
+FIR registered for domestic violence at residential area,criminal_law,1.0,police_station,2025-12-16T10:01:20.028550,6
+Petition challenging privacy violation under Article 19 of Constitution,civil_appeal,0.5,supreme_court,2025-12-16T10:01:20.028550,0
+Petition challenging discrimination under Article 29 of Constitution,service_matters,0.5,supreme_court,2025-12-15T10:01:20.028550,11
+Criminal appeal challenging conviction under 323 IPC,service_matters,0.5,supreme_court,2025-12-15T10:01:20.028550,11
+Criminal appeal challenging conviction under 303 IPC,criminal_appeal,0.7,supreme_court,2025-12-14T10:01:20.028550,5
+Petition challenging freedom of speech under Article 19 of Constitution,criminal_appeal,0.7,supreme_court,2025-12-14T10:01:20.028550,5
+Civil suit for recovery of ₹1745082 regarding loan,criminal_trial,0.8,district_court,2025-12-14T10:01:20.028550,7
+Criminal complaint under 453 IPC,consumer_rights,0.2,district_court,2025-12-14T10:01:20.028550,3
+Criminal case filed for privacy breach against organization,criminal_law,1.0,police_station,2025-12-13T10:01:20.028550,6
+Police report of criminal intimidation under 395 IPC,criminal_law,0.9,police_station,2025-12-13T10:01:20.028550,6
+Police report of criminal intimidation under 464 IPC,criminal_law,0.9,police_station,2025-12-13T10:01:20.028550,6
+Petition challenging discrimination under Article 16 of Constitution,service_matters,0.5,supreme_court,2025-12-13T10:01:20.028550,11
+Petition challenging freedom of speech under Article 24 of Constitution,constitutional_law,0.8,supreme_court,2025-12-12T10:01:20.028550,2
+Police report of assault under 394 IPC,criminal_law,1.0,police_station,2025-12-12T10:01:20.028550,6
+Petition challenging freedom of speech under Article 29 of Constitution,civil_appeal,0.4,supreme_court,2025-12-12T10:01:20.028550,0
+Civil suit for recovery of ₹3446711 regarding services,family_law,0.6,district_court,2025-12-12T10:01:20.028550,8
+Police report of cheating under 417 IPC,criminal_law,0.9,police_station,2025-12-12T10:01:20.028550,6
+Complaint regarding harassment involving strangers,criminal_law,1.0,police_station,2025-12-11T10:01:20.028550,6
+Civil suit for recovery of ₹1110135 regarding goods,civil_dispute,0.3,district_court,2025-12-10T10:01:20.028550,1
+Criminal appeal challenging conviction under 325 IPC,taxation,0.3,supreme_court,2025-12-05T10:01:20.028550,12
+Criminal complaint under 353 IPC,criminal_trial,0.8,district_court,2025-12-04T10:01:20.028550,7
+Criminal appeal challenging conviction under 332 IPC,service_matters,0.5,supreme_court,2025-12-04T10:01:20.028550,11
+Police report of cheating under 502 IPC,criminal_law,0.9,police_station,2025-12-02T10:01:20.028550,6
+Police report of cheating under 488 IPC,criminal_law,0.9,police_station,2025-12-02T10:01:20.028550,6
+Criminal complaint under 496 IPC,family_law,0.6,district_court,2025-12-02T10:01:20.028550,8
+Criminal complaint under 323 IPC,civil_dispute,0.3,district_court,2025-12-02T10:01:20.028550,1
+Police report of cheating under 456 IPC,criminal_law,0.9,police_station,2025-12-01T10:01:20.028550,6
+Complaint regarding harassment involving family members,criminal_law,1.0,police_station,2025-11-29T10:01:20.028550,6
+Criminal complaint under 420 IPC,civil_dispute,0.3,district_court,2025-11-28T10:01:20.028550,1
+Civil suit for recovery of ₹1779265 regarding loan,family_law,0.6,district_court,2025-11-28T10:01:20.028550,8
+Criminal complaint under 344 IPC,consumer_rights,0.2,district_court,2025-11-27T10:01:20.028550,3
+Criminal appeal challenging conviction under 324 IPC,taxation,0.3,supreme_court,2025-11-26T10:01:20.028550,12
+Civil suit for recovery of ₹555819 regarding property,family_law,0.6,district_court,2025-11-25T10:01:20.028550,8
+My boss hasn't paid my salary for 5 months,labor_law,0.7,user_input,2025-11-24T10:01:20.028550,9
+Police report of theft under 511 IPC,criminal_law,1.0,police_station,2025-11-21T10:01:20.028550,6
+Police report of cheating under 506 IPC,criminal_law,0.9,police_station,2025-11-20T10:01:20.028550,6
+Police report of assault under 479 IPC,criminal_law,1.0,police_station,2025-11-20T10:01:20.028550,6
+Suit for damages in property_dispute dispute,property_dispute,0.6,high_court,2025-11-18T10:01:20.028550,10
+FIR registered for theft at public place,criminal_law,1.0,police_station,2025-11-18T10:01:20.028550,6
+Criminal complaint under 488 IPC,civil_dispute,0.3,district_court,2025-11-15T10:01:20.028550,1
+Civil suit for recovery of ₹431040 regarding loan,family_law,0.6,district_court,2025-11-15T10:01:20.028550,8
+Criminal complaint under 501 IPC,consumer_rights,0.2,district_court,2025-11-14T10:01:20.028550,3
+Civil suit for recovery of ₹614391 regarding loan,criminal_trial,0.8,district_court,2025-11-12T10:01:20.028550,7
+Civil suit for recovery of ₹1796162 regarding services,criminal_trial,0.8,district_court,2025-11-12T10:01:20.028550,7
+Civil suit for recovery of ₹4357899 regarding loan,family_law,0.6,district_court,2025-11-11T10:01:20.028550,8
+Petition challenging right to life under Article 15 of Constitution,criminal_appeal,0.7,supreme_court,2025-11-11T10:01:20.028550,5
+Criminal appeal challenging conviction under 355 IPC,constitutional_law,0.8,supreme_court,2025-11-10T10:01:20.028550,2
+Criminal appeal challenging conviction under 358 IPC,constitutional_law,0.8,supreme_court,2025-11-08T10:01:20.028550,2
+Criminal complaint under 333 IPC,criminal_trial,0.8,district_court,2025-11-08T10:01:20.028550,7
+Police report of criminal intimidation under 434 IPC,criminal_law,0.9,police_station,2025-11-07T10:01:20.028550,6
+Police report of assault under 431 IPC,criminal_law,1.0,police_station,2025-11-07T10:01:20.028550,6
+Criminal complaint under 413 IPC,criminal_trial,0.8,district_court,2025-11-05T10:01:20.028550,7
+Civil suit for recovery of ₹1157434 regarding property,civil_dispute,0.3,district_court,2025-11-05T10:01:20.028550,1
+Petition challenging discrimination under Article 31 of Constitution,criminal_appeal,0.7,supreme_court,2025-11-05T10:01:20.028550,5
+Police report of assault under 406 IPC,criminal_law,1.0,police_station,2025-11-04T10:01:20.028550,6
+Civil suit for recovery of ₹816305 regarding services,consumer_rights,0.2,district_court,2025-11-04T10:01:20.028550,3
+Criminal complaint under 359 IPC,civil_dispute,0.3,district_court,2025-11-03T10:01:20.028550,1
+Police report of criminal intimidation under 391 IPC,criminal_law,0.9,police_station,2025-11-03T10:01:20.028550,6
+Civil suit for recovery of ₹1029741 regarding goods,consumer_rights,0.2,district_court,2025-11-03T10:01:20.028550,3
+Civil suit for recovery of ₹2363008 regarding property,consumer_rights,0.2,district_court,2025-11-03T10:01:20.028550,3
+Civil suit for recovery of ₹2038141 regarding services,criminal_trial,0.8,district_court,2025-11-02T10:01:20.028550,7
+Police report of assault under 386 IPC,criminal_law,1.0,police_station,2025-11-02T10:01:20.028550,6
+Police report of criminal intimidation under 379 IPC,criminal_law,0.9,police_station,2025-11-02T10:01:20.028550,6
+Civil suit for recovery of ₹608033 regarding loan,consumer_rights,0.2,district_court,2025-11-01T10:01:20.028550,3
+Criminal appeal challenging conviction under 367 IPC,constitutional_law,0.8,supreme_court,2025-11-01T10:01:20.028550,2
+Civil suit for recovery of ₹2213488 regarding loan,criminal_trial,0.8,district_court,2025-10-30T10:01:20.028550,7
+Criminal complaint under 326 IPC,civil_dispute,0.3,district_court,2025-10-29T10:01:20.028550,1
+Civil suit for recovery of ₹838745 regarding services,family_law,0.6,district_court,2025-10-29T10:01:20.028550,8
+Civil suit for recovery of ₹4677287 regarding property,civil_dispute,0.3,district_court,2025-10-28T10:01:20.028550,1
+Police report of criminal intimidation under 483 IPC,criminal_law,0.9,police_station,2025-10-28T10:01:20.028550,6
+Civil suit for recovery of ₹4805085 regarding loan,family_law,0.6,district_court,2025-10-27T10:01:20.028550,8
+Criminal appeal challenging conviction under 328 IPC,civil_appeal,0.4,supreme_court,2025-10-26T10:01:20.028550,0
+Civil suit for recovery of ₹4788629 regarding loan,civil_dispute,0.3,district_court,2025-10-26T10:01:20.028550,1
+Criminal appeal challenging conviction under 387 IPC,civil_appeal,0.4,supreme_court,2025-10-25T10:01:20.028550,0
+Petition challenging privacy violation under Article 14 of Constitution,criminal_appeal,0.8,supreme_court,2025-10-25T10:01:20.028550,5
+Police report of theft under 396 IPC,criminal_law,1.0,police_station,2025-10-23T10:01:20.028550,6
+Criminal complaint under 429 IPC,consumer_rights,0.2,district_court,2025-10-23T10:01:20.028550,3
+Civil suit for recovery of ₹4845174 regarding property,consumer_rights,0.2,district_court,2025-10-22T10:01:20.028550,3
+Petition challenging discrimination under Article 14 of Constitution,civil_appeal,0.4,supreme_court,2025-10-20T10:01:20.028550,0
+Civil suit for recovery of ₹3973500 regarding property,civil_dispute,0.3,district_court,2025-10-20T10:01:20.028550,1
+Police report of cheating under 403 IPC,criminal_law,0.9,police_station,2025-10-19T10:01:20.028550,6
+Criminal appeal challenging conviction under 319 IPC,civil_appeal,0.4,supreme_court,2025-10-17T10:01:20.028550,0
+Criminal complaint under 482 IPC,criminal_trial,0.8,district_court,2025-10-15T10:01:20.028550,7
+Police report of assault under 469 IPC,criminal_law,1.0,police_station,2025-10-15T10:01:20.028550,6
+Petition challenging discrimination under Article 18 of Constitution,service_matters,0.5,supreme_court,2025-10-14T10:01:20.028550,11
+Civil suit for recovery of ₹1992854 regarding loan,civil_dispute,0.3,district_court,2025-10-14T10:01:20.028550,1
+Civil suit for recovery of ₹1285524 regarding loan,civil_dispute,0.3,district_court,2025-10-14T10:01:20.028550,1
+Criminal appeal challenging conviction under 383 IPC,constitutional_law,0.8,supreme_court,2025-10-11T10:01:20.028550,2
+Civil suit for recovery of ₹2971311 regarding property,criminal_trial,0.8,district_court,2025-10-10T10:01:20.028550,7
+Criminal appeal challenging conviction under 390 IPC,civil_appeal,0.4,supreme_court,2025-10-09T10:01:20.028550,0
+Criminal complaint under 480 IPC,family_law,0.6,district_court,2025-10-09T10:01:20.028550,8
+Police report of assault under 438 IPC,criminal_law,1.0,police_station,2025-10-09T10:01:20.028550,6
+FIR registered for domestic violence at workplace,criminal_law,1.0,police_station,2025-10-08T10:01:20.028550,6
+Criminal appeal challenging conviction under 412 IPC,service_matters,0.5,supreme_court,2025-10-08T10:01:20.028550,11
+Petition challenging discrimination under Article 28 of Constitution,constitutional_law,0.8,supreme_court,2025-10-07T10:01:20.028550,2
+Criminal appeal challenging conviction under 352 IPC,civil_appeal,0.4,supreme_court,2025-10-07T10:01:20.028550,0
+FIR registered for theft at residential area,criminal_law,1.0,police_station,2025-10-07T10:01:20.028550,6
+Criminal complaint under 414 IPC,criminal_trial,0.8,district_court,2025-10-06T10:01:20.028550,7
+Civil suit for recovery of ₹4345430 regarding property,civil_dispute,0.3,district_court,2025-10-04T10:01:20.028550,1
+Police report of criminal intimidation under 436 IPC,criminal_law,0.9,police_station,2025-10-03T10:01:20.028550,6
+Police report of assault under 413 IPC,criminal_law,1.0,police_station,2025-10-03T10:01:20.028550,6
+Criminal complaint under 460 IPC,civil_dispute,0.3,district_court,2025-10-03T10:01:20.028550,1
+Civil suit for recovery of ₹4963484 regarding services,civil_dispute,0.3,district_court,2025-10-03T10:01:20.028550,1
+Criminal appeal challenging conviction under 322 IPC,constitutional_law,0.8,supreme_court,2025-10-03T10:01:20.028550,2
+Criminal complaint under 431 IPC,civil_dispute,0.3,district_court,2025-09-30T10:01:20.028550,1
+Criminal appeal challenging conviction under 330 IPC,taxation,0.3,supreme_court,2025-09-30T10:01:20.028550,12
+Petition challenging freedom of speech under Article 26 of Constitution,civil_appeal,0.4,supreme_court,2025-09-28T10:01:20.028550,0
+Police report of assault under 472 IPC,criminal_law,1.0,police_station,2025-09-25T10:01:20.028550,6
+Police report of assault under 508 IPC,criminal_law,1.0,police_station,2025-09-25T10:01:20.028550,6
+Petition challenging discrimination under Article 25 of Constitution,constitutional_law,0.8,supreme_court,2025-09-25T10:01:20.028550,2
+Criminal complaint under 484 IPC,civil_dispute,0.3,district_court,2025-09-24T10:01:20.028550,1
+Civil suit for recovery of ₹1532792 regarding property,consumer_rights,0.2,district_court,2025-09-23T10:01:20.028550,3
+Police report of assault under 416 IPC,criminal_law,1.0,police_station,2025-09-23T10:01:20.028550,6
+Police report of theft under 500 IPC,criminal_law,1.0,police_station,2025-09-22T10:01:20.028550,6
+Police report of theft under 429 IPC,criminal_law,1.0,police_station,2025-09-20T10:01:20.028550,6
+Police report of cheating under 427 IPC,criminal_law,0.9,police_station,2025-09-19T10:01:20.028550,6
+Criminal complaint under 327 IPC,civil_dispute,0.3,district_court,2025-09-18T10:01:20.028550,1
+Criminal appeal challenging conviction under 374 IPC,civil_appeal,0.4,supreme_court,2025-09-18T10:01:20.028550,0
+Police report of criminal intimidation under 480 IPC,criminal_law,0.9,police_station,2025-09-17T10:01:20.028550,6
+Criminal complaint under 380 IPC,family_law,0.6,district_court,2025-09-16T10:01:20.028550,8
+Police report of criminal intimidation under 389 IPC,criminal_law,0.9,police_station,2025-09-16T10:01:20.028550,6
+Criminal appeal challenging conviction under 320 IPC,civil_appeal,0.4,supreme_court,2025-09-15T10:01:20.028550,0
+Civil suit for recovery of ₹1033799 regarding goods,family_law,0.6,district_court,2025-09-14T10:01:20.028550,8
+Police report of assault under 445 IPC,criminal_law,1.0,police_station,2025-09-13T10:01:20.028550,6
+Petition challenging right to life under Article 31 of Constitution,constitutional_law,0.8,supreme_court,2025-09-12T10:01:20.028550,2
+Petition challenging freedom of speech under Article 21 of Constitution,constitutional_law,0.8,supreme_court,2025-09-10T10:01:20.028550,2
+Police report of theft under 467 IPC,criminal_law,1.0,police_station,2025-09-08T10:01:20.028550,6
+Criminal complaint under 463 IPC,consumer_rights,0.2,district_court,2025-09-07T10:01:20.028550,3
+Police report of criminal intimidation under 429 IPC,criminal_law,0.9,police_station,2025-09-06T10:01:20.028550,6
+Police report of cheating under 490 IPC,criminal_law,0.9,police_station,2025-09-04T10:01:20.028550,6
+Suit for damages in family_law dispute,family_law,0.7,high_court,2025-09-03T10:01:20.028550,8
+Civil suit for recovery of ₹4501721 regarding services,civil_dispute,0.3,district_court,2025-09-01T10:01:20.028550,1
+Criminal appeal challenging conviction under 310 IPC,service_matters,0.5,supreme_court,2025-08-30T10:01:20.028550,11
+Petition challenging discrimination under Article 19 of Constitution,service_matters,0.5,supreme_court,2025-08-29T10:01:20.028550,11
+Criminal appeal challenging conviction under 302 IPC,criminal_appeal,0.7,supreme_court,2025-08-29T10:01:20.028550,5
+Criminal appeal challenging conviction under 384 IPC,service_matters,0.5,supreme_court,2025-08-29T10:01:20.028550,11
+Criminal complaint under 385 IPC,civil_dispute,0.3,district_court,2025-08-29T10:01:20.028550,1
+Civil suit for recovery of ₹2965833 regarding goods,civil_dispute,0.3,district_court,2025-08-29T10:01:20.028550,1
+Police report of theft under 451 IPC,criminal_law,1.0,police_station,2025-08-29T10:01:20.028550,6
+Civil suit for recovery of ₹3054489 regarding loan,consumer_rights,0.2,district_court,2025-08-28T10:01:20.028550,3
+Civil suit for recovery of ₹4811991 regarding property,family_law,0.6,district_court,2025-08-27T10:01:20.028550,8
+Civil suit for recovery of ₹4957558 regarding goods,consumer_rights,0.2,district_court,2025-08-26T10:01:20.028550,3
+Petition challenging privacy violation under Article 22 of Constitution,taxation,0.4,supreme_court,2025-08-26T10:01:20.028550,12
+Civil suit for recovery of ₹4447387 regarding goods,criminal_trial,0.8,district_court,2025-08-24T10:01:20.028550,7
+Criminal appeal challenging conviction under 369 IPC,taxation,0.3,supreme_court,2025-08-24T10:01:20.028550,12
+Civil suit for recovery of ₹3012864 regarding services,civil_dispute,0.3,district_court,2025-08-24T10:01:20.028550,1
+Civil suit for recovery of ₹2792530 regarding goods,family_law,0.6,district_court,2025-08-23T10:01:20.028550,8
+Civil suit for recovery of ₹2369210 regarding loan,civil_dispute,0.3,district_court,2025-08-21T10:01:20.028550,1
+Criminal appeal challenging conviction under 344 IPC,civil_appeal,0.4,supreme_court,2025-08-21T10:01:20.028550,0
+Civil suit for recovery of ₹2246696 regarding services,consumer_rights,0.2,district_court,2025-08-20T10:01:20.028550,3
+Criminal appeal challenging conviction under 311 IPC,taxation,0.3,supreme_court,2025-08-20T10:01:20.028550,12
+Civil suit for recovery of ₹3361208 regarding services,family_law,0.6,district_court,2025-08-19T10:01:20.028550,8
+Civil suit for recovery of ₹1578576 regarding services,criminal_trial,0.8,district_court,2025-08-19T10:01:20.028550,7
+Petition challenging freedom of speech under Article 15 of Constitution,taxation,0.3,supreme_court,2025-08-18T10:01:20.028550,12
+Criminal complaint under 370 IPC,consumer_rights,0.2,district_court,2025-08-15T10:01:20.028550,3
+Police report of theft under 395 IPC,criminal_law,1.0,police_station,2025-08-15T10:01:20.028550,6
+Criminal appeal challenging conviction under 410 IPC,constitutional_law,0.8,supreme_court,2025-08-15T10:01:20.028550,2
+Petition challenging discrimination under Article 30 of Constitution,constitutional_law,0.8,supreme_court,2025-08-14T10:01:20.028550,2
+Civil suit for recovery of ₹668362 regarding goods,civil_dispute,0.3,district_court,2025-08-14T10:01:20.028550,1
+Criminal appeal challenging conviction under 356 IPC,criminal_appeal,0.7,supreme_court,2025-08-14T10:01:20.028550,5
+Civil suit for recovery of ₹300012 regarding loan,family_law,0.6,district_court,2025-08-13T10:01:20.028550,8
+Petition challenging privacy violation under Article 25 of Constitution,civil_appeal,0.5,supreme_court,2025-08-12T10:01:20.028550,0
+Police report of assault under 487 IPC,criminal_law,1.0,police_station,2025-08-10T10:01:20.028550,6
+Police report of theft under 432 IPC,criminal_law,1.0,police_station,2025-08-09T10:01:20.028550,6
+Civil suit for recovery of ₹2396886 regarding services,civil_dispute,0.3,district_court,2025-08-09T10:01:20.028550,1
+Police report of theft under 461 IPC,criminal_law,1.0,police_station,2025-08-08T10:01:20.028550,6
+Police report of cheating under 453 IPC,criminal_law,0.9,police_station,2025-08-08T10:01:20.028550,6
+Criminal appeal challenging conviction under 340 IPC,constitutional_law,0.8,supreme_court,2025-08-07T10:01:20.028550,2
+Criminal complaint under 509 IPC,civil_dispute,0.3,district_court,2025-08-06T10:01:20.028550,1
+Criminal complaint under 376 IPC,consumer_rights,0.2,district_court,2025-08-04T10:01:20.028550,3
+Civil suit for recovery of ₹2324628 regarding services,consumer_rights,0.2,district_court,2025-08-04T10:01:20.028550,3
+Civil suit for recovery of ₹625458 regarding loan,consumer_rights,0.2,district_court,2025-08-04T10:01:20.028550,3
+Police report of theft under 381 IPC,criminal_law,1.0,police_station,2025-08-03T10:01:20.028550,6
+Civil suit for recovery of ₹4798797 regarding services,family_law,0.6,district_court,2025-08-02T10:01:20.028550,8
+Police report of assault under 504 IPC,criminal_law,1.0,police_station,2025-07-31T10:01:20.028550,6
+Civil suit for recovery of ₹1459074 regarding services,civil_dispute,0.3,district_court,2025-07-30T10:01:20.028550,1
+Civil suit for recovery of ₹877514 regarding loan,civil_dispute,0.3,district_court,2025-07-28T10:01:20.028550,1
+Civil suit for recovery of ₹1746398 regarding services,family_law,0.6,district_court,2025-07-27T10:01:20.028550,8
+Police report of theft under 443 IPC,criminal_law,1.0,police_station,2025-07-26T10:01:20.028550,6
+Criminal complaint under 478 IPC,consumer_rights,0.2,district_court,2025-07-25T10:01:20.028550,3
+Police report of criminal intimidation under 414 IPC,criminal_law,0.9,police_station,2025-07-25T10:01:20.028550,6
+Criminal complaint under 468 IPC,criminal_trial,0.8,district_court,2025-07-24T10:01:20.028550,7
+Civil suit for recovery of ₹3820805 regarding services,consumer_rights,0.2,district_court,2025-07-24T10:01:20.028550,3
+Criminal complaint under 462 IPC,civil_dispute,0.3,district_court,2025-07-24T10:01:20.028550,1
+Criminal appeal challenging conviction under 335 IPC,constitutional_law,0.8,supreme_court,2025-07-23T10:01:20.028550,2
+Criminal complaint under 338 IPC,consumer_rights,0.2,district_court,2025-07-23T10:01:20.028550,3
+Civil suit for recovery of ₹2330111 regarding property,family_law,0.6,district_court,2025-07-21T10:01:20.028550,8
+Police report of theft under 474 IPC,criminal_law,1.0,police_station,2025-07-20T10:01:20.028550,6
+Petition challenging freedom of speech under Article 25 of Constitution,constitutional_law,0.8,supreme_court,2025-07-20T10:01:20.028550,2
+Petition challenging right to life under Article 32 of Constitution,service_matters,0.5,supreme_court,2025-07-20T10:01:20.028550,11
+Civil suit for recovery of ₹2674886 regarding loan,consumer_rights,0.2,district_court,2025-07-19T10:01:20.028550,3
+Criminal complaint under 493 IPC,family_law,0.6,district_court,2025-07-17T10:01:20.028550,8
+Civil suit for recovery of ₹60005 regarding property,civil_dispute,0.3,district_court,2025-07-17T10:01:20.028550,1
+Police report of cheating under 459 IPC,criminal_law,0.9,police_station,2025-07-17T10:01:20.028550,6
+Criminal complaint under 324 IPC,consumer_rights,0.2,district_court,2025-07-15T10:01:20.028550,3
+Civil suit for recovery of ₹4200014 regarding goods,civil_dispute,0.3,district_court,2025-07-15T10:01:20.028550,1
+Criminal complaint under 454 IPC,family_law,0.6,district_court,2025-07-14T10:01:20.028550,8
+Criminal complaint under 507 IPC,civil_dispute,0.3,district_court,2025-07-14T10:01:20.028550,1
+Criminal appeal challenging conviction under 329 IPC,service_matters,0.5,supreme_court,2025-07-10T10:01:20.028550,11
+Civil suit for recovery of ₹4791847 regarding services,civil_dispute,0.3,district_court,2025-07-10T10:01:20.028550,1
+Criminal appeal challenging conviction under 419 IPC,taxation,0.3,supreme_court,2025-07-08T10:01:20.028550,12
+Criminal appeal challenging conviction under 365 IPC,service_matters,0.5,supreme_court,2025-07-07T10:01:20.028550,11
+Petition challenging right to life under Article 30 of Constitution,criminal_appeal,0.7,supreme_court,2025-07-07T10:01:20.028550,5
+FIR registered for assault at public place,criminal_law,1.0,police_station,2025-07-06T10:01:20.028550,6
+Civil suit for recovery of ₹2406250 regarding goods,family_law,0.6,district_court,2025-07-06T10:01:20.028550,8
+Police report of criminal intimidation under 386 IPC,criminal_law,0.9,police_station,2025-07-06T10:01:20.028550,6
+Civil suit for recovery of ₹3920777 regarding property,consumer_rights,0.2,district_court,2025-07-03T10:01:20.028550,3
+Civil suit for recovery of ₹3566728 regarding loan,consumer_rights,0.2,district_court,2025-07-02T10:01:20.028550,3
+Criminal complaint under 430 IPC,consumer_rights,0.2,district_court,2025-07-02T10:01:20.028550,3
+Civil suit for recovery of ₹821182 regarding property,family_law,0.6,district_court,2025-07-01T10:01:20.028550,8
+Petition challenging right to life under Article 16 of Constitution,taxation,0.3,supreme_court,2025-06-30T10:01:20.028550,12
+Criminal appeal challenging conviction under 375 IPC,service_matters,0.5,supreme_court,2025-06-30T10:01:20.028550,11
+Police report of criminal intimidation under 499 IPC,criminal_law,0.9,police_station,2025-06-28T10:01:20.028550,6
+Criminal complaint under 387 IPC,family_law,0.6,district_court,2025-06-28T10:01:20.028550,8
+Civil suit for recovery of ₹4469851 regarding goods,civil_dispute,0.3,district_court,2025-06-28T10:01:20.028550,1
+Criminal complaint under 428 IPC,civil_dispute,0.3,district_court,2025-06-28T10:01:20.028550,1
+Civil suit for recovery of ₹765191 regarding goods,consumer_rights,0.2,district_court,2025-06-27T10:01:20.028550,3
+Police report of cheating under 401 IPC,criminal_law,0.9,police_station,2025-06-26T10:01:20.028550,6
+Civil suit for recovery of ₹3324696 regarding loan,criminal_trial,0.8,district_court,2025-06-25T10:01:20.028550,7
+Civil suit for recovery of ₹3277098 regarding services,civil_dispute,0.3,district_court,2025-06-25T10:01:20.028550,1
+Civil suit for recovery of ₹2450426 regarding property,criminal_trial,0.8,district_court,2025-06-24T10:01:20.028550,7
+Petition challenging discrimination under Article 27 of Constitution,taxation,0.3,supreme_court,2025-06-23T10:01:20.028550,12
+Suit for damages in criminal_law dispute,criminal_law,1.0,high_court,2025-06-23T10:01:20.028550,6
+Civil suit for recovery of ₹2207287 regarding services,family_law,0.6,district_court,2025-06-23T10:01:20.028550,8
+Civil suit for recovery of ₹205646 regarding property,family_law,0.6,district_court,2025-06-21T10:01:20.028550,8
+Police report of assault under 501 IPC,criminal_law,1.0,police_station,2025-06-20T10:01:20.028550,6
+Police report of theft under 409 IPC,criminal_law,1.0,police_station,2025-06-19T10:01:20.028550,6
+Civil suit for recovery of ₹1516081 regarding loan,civil_dispute,0.3,district_court,2025-06-18T10:01:20.028550,1
+Police report of theft under 426 IPC,criminal_law,1.0,police_station,2025-06-18T10:01:20.028550,6
+Criminal complaint under 440 IPC,civil_dispute,0.3,district_court,2025-06-17T10:01:20.028550,1
+Civil suit for recovery of ₹2981962 regarding services,civil_dispute,0.3,district_court,2025-06-17T10:01:20.028550,1
+Civil suit for recovery of ₹4358933 regarding loan,civil_dispute,0.3,district_court,2025-06-17T10:01:20.028550,1
+Criminal complaint under 373 IPC,criminal_trial,0.8,district_court,2025-06-17T10:01:20.028550,7
+Police report of assault under 392 IPC,criminal_law,1.0,police_station,2025-06-17T10:01:20.028550,6
+Criminal complaint under 472 IPC,consumer_rights,0.2,district_court,2025-06-17T10:01:20.028550,3
+Petition challenging right to life under Article 21 of Constitution,constitutional_law,0.8,supreme_court,2025-06-16T10:01:20.028550,2
+Police report of assault under 498 IPC,criminal_law,1.0,police_station,2025-06-16T10:01:20.028550,6
+Criminal complaint under 391 IPC,consumer_rights,0.2,district_court,2025-06-15T10:01:20.028550,3
+Police report of criminal intimidation under 409 IPC,criminal_law,0.9,police_station,2025-06-14T10:01:20.028550,6
+Police report of theft under 468 IPC,criminal_law,1.0,police_station,2025-06-13T10:01:20.028550,6
+Criminal appeal challenging conviction under 378 IPC,criminal_appeal,0.7,supreme_court,2025-06-13T10:01:20.028550,5
+Civil suit for recovery of ₹3612784 regarding services,family_law,0.6,district_court,2025-06-12T10:01:20.028550,8
+Criminal complaint under 381 IPC,consumer_rights,0.2,district_court,2025-06-12T10:01:20.028550,3
+Civil suit for recovery of ₹3468329 regarding services,family_law,0.6,district_court,2025-06-11T10:01:20.028550,8
+Police report of criminal intimidation under 503 IPC,criminal_law,0.9,police_station,2025-06-10T10:01:20.028550,6
+Criminal complaint under 485 IPC,family_law,0.6,district_court,2025-06-10T10:01:20.028550,8
+Criminal complaint under 499 IPC,civil_dispute,0.3,district_court,2025-06-09T10:01:20.028550,1
+Criminal appeal challenging conviction under 391 IPC,civil_appeal,0.4,supreme_court,2025-06-09T10:01:20.028550,0
+Criminal complaint under 339 IPC,civil_dispute,0.3,district_court,2025-06-07T10:01:20.028550,1
+Police report of cheating under 464 IPC,criminal_law,0.9,police_station,2025-06-04T10:01:20.028550,6
+Civil suit for recovery of ₹4848178 regarding loan,family_law,0.6,district_court,2025-06-03T10:01:20.028550,8
+Civil suit for recovery of ₹627867 regarding goods,family_law,0.6,district_court,2025-06-02T10:01:20.028550,8
+Police report of assault under 458 IPC,criminal_law,1.0,police_station,2025-06-01T10:01:20.028550,6
+Criminal complaint under 415 IPC,civil_dispute,0.3,district_court,2025-06-01T10:01:20.028550,1
+Criminal complaint under 325 IPC,criminal_trial,0.8,district_court,2025-05-31T10:01:20.028550,7
+Civil suit for recovery of ₹3914581 regarding services,civil_dispute,0.3,district_court,2025-05-30T10:01:20.028550,1
+Civil suit for recovery of ₹4463587 regarding loan,civil_dispute,0.3,district_court,2025-05-30T10:01:20.028550,1
+Police report of theft under 422 IPC,criminal_law,1.0,police_station,2025-05-28T10:01:20.028550,6
+Criminal complaint under 495 IPC,criminal_trial,0.8,district_court,2025-05-27T10:01:20.028550,7
+Civil suit for recovery of ₹2206570 regarding services,family_law,0.6,district_court,2025-05-26T10:01:20.028550,8
+Civil suit for recovery of ₹4826893 regarding goods,family_law,0.6,district_court,2025-05-25T10:01:20.028550,8
+Criminal appeal challenging conviction under 337 IPC,taxation,0.3,supreme_court,2025-05-24T10:01:20.028550,12
+Civil suit for recovery of ₹2312470 regarding goods,family_law,0.6,district_court,2025-05-24T10:01:20.028550,8
+Petition challenging freedom of speech under Article 17 of Constitution,criminal_appeal,0.7,supreme_court,2025-05-23T10:01:20.028550,5
+Civil suit for recovery of ₹3611050 regarding goods,consumer_rights,0.2,district_court,2025-05-23T10:01:20.028550,3
+Civil suit for recovery of ₹828967 regarding loan,family_law,0.6,district_court,2025-05-22T10:01:20.028550,8
+Criminal appeal challenging conviction under 351 IPC,civil_appeal,0.4,supreme_court,2025-05-22T10:01:20.028550,0
+Police report of criminal intimidation under 419 IPC,criminal_law,0.9,police_station,2025-05-21T10:01:20.028550,6
+Civil suit for recovery of ₹664441 regarding loan,consumer_rights,0.2,district_court,2025-05-20T10:01:20.028550,3
+Criminal appeal challenging conviction under 339 IPC,taxation,0.3,supreme_court,2025-05-18T10:01:20.028550,12
+Criminal appeal challenging conviction under 304 IPC,civil_appeal,0.4,supreme_court,2025-05-18T10:01:20.028550,0
+Civil suit for recovery of ₹3178528 regarding goods,civil_dispute,0.3,district_court,2025-05-18T10:01:20.028550,1
+Criminal complaint under 491 IPC,family_law,0.6,district_court,2025-05-13T10:01:20.028550,8
+Criminal appeal challenging conviction under 315 IPC,service_matters,0.5,supreme_court,2025-05-12T10:01:20.028550,11
+Police report of cheating under 493 IPC,criminal_law,0.9,police_station,2025-05-09T10:01:20.028550,6
+Civil suit for recovery of ₹520572 regarding services,family_law,0.6,district_court,2025-05-09T10:01:20.028550,8
+Civil suit for recovery of ₹3784520 regarding loan,criminal_trial,0.8,district_court,2025-05-08T10:01:20.028550,7
+Police report of theft under 442 IPC,criminal_law,1.0,police_station,2025-05-06T10:01:20.028550,6
+Police report of theft under 481 IPC,criminal_law,1.0,police_station,2025-05-05T10:01:20.028550,6
+Police report of cheating under 446 IPC,criminal_law,0.9,police_station,2025-05-05T10:01:20.028550,6
+Police report of criminal intimidation under 447 IPC,criminal_law,0.9,police_station,2025-05-02T10:01:20.028550,6
+Petition challenging freedom of speech under Article 20 of Constitution,service_matters,0.5,supreme_court,2025-04-30T10:01:20.028550,11
+Criminal complaint under 372 IPC,consumer_rights,0.2,district_court,2025-04-29T10:01:20.028550,3
+Police report of theft under 463 IPC,criminal_law,1.0,police_station,2025-04-28T10:01:20.028550,6
+Civil suit for recovery of ₹3052802 regarding goods,consumer_rights,0.2,district_court,2025-04-27T10:01:20.028550,3
+Petition challenging right to life under Article 29 of Constitution,constitutional_law,0.8,supreme_court,2025-04-27T10:01:20.028550,2
+Civil suit for recovery of ₹3792078 regarding property,civil_dispute,0.3,district_court,2025-04-26T10:01:20.028550,1
+Criminal complaint under 508 IPC,family_law,0.6,district_court,2025-04-24T10:01:20.028550,8
+Civil suit for recovery of ₹1710377 regarding goods,consumer_rights,0.2,district_court,2025-04-22T10:01:20.028550,3
+Police report of theft under 507 IPC,criminal_law,1.0,police_station,2025-04-22T10:01:20.028550,6
+Police report of assault under 483 IPC,criminal_law,1.0,police_station,2025-04-20T10:01:20.028550,6
+Civil suit for recovery of ₹2871239 regarding services,criminal_trial,0.8,district_court,2025-04-19T10:01:20.028550,7
+Civil suit for recovery of ₹2380481 regarding property,consumer_rights,0.2,district_court,2025-04-15T10:01:20.028550,3
+Criminal complaint under 358 IPC,criminal_trial,0.8,district_court,2025-04-14T10:01:20.028550,7
+Criminal complaint under 479 IPC,civil_dispute,0.3,district_court,2025-04-14T10:01:20.028550,1
+Police report of theft under 498 IPC,criminal_law,1.0,police_station,2025-04-13T10:01:20.028550,6
+Petition challenging right to life under Article 25 of Constitution,civil_appeal,0.4,supreme_court,2025-04-12T10:01:20.028550,0
+Police report of theft under 386 IPC,criminal_law,1.0,police_station,2025-04-12T10:01:20.028550,6
+Criminal complaint under 361 IPC,family_law,0.6,district_court,2025-04-09T10:01:20.028550,8
+Petition challenging right to life under Article 22 of Constitution,civil_appeal,0.4,supreme_court,2025-04-08T10:01:20.028550,0
+Civil suit for recovery of ₹3536333 regarding loan,civil_dispute,0.3,district_court,2025-04-07T10:01:20.028550,1
+My boss hasn't paid my salary for 1 months,labor_law,0.7,user_input,2025-04-05T10:01:20.028550,9
+Criminal appeal challenging conviction under 399 IPC,criminal_appeal,0.7,supreme_court,2025-04-04T10:01:20.028550,5
+Civil suit for recovery of ₹1171200 regarding property,family_law,0.6,district_court,2025-04-03T10:01:20.028550,8
+Civil suit for recovery of ₹3121960 regarding goods,consumer_rights,0.2,district_court,2025-04-01T10:01:20.028550,3
+Criminal complaint under 459 IPC,civil_dispute,0.3,district_court,2025-04-01T10:01:20.028550,1
+Police report of theft under 487 IPC,criminal_law,1.0,police_station,2025-03-30T10:01:20.028550,6
+Police report of criminal intimidation under 490 IPC,criminal_law,0.9,police_station,2025-03-30T10:01:20.028550,6
+Police report of cheating under 471 IPC,criminal_law,0.9,police_station,2025-03-29T10:01:20.028550,6
+Criminal complaint under 444 IPC,civil_dispute,0.3,district_court,2025-03-27T10:01:20.028550,1
+Civil suit for recovery of ₹4037717 regarding goods,criminal_trial,0.8,district_court,2025-03-27T10:01:20.028550,7
+Civil suit for recovery of ₹3983833 regarding loan,family_law,0.6,district_court,2025-03-27T10:01:20.028550,8
+Criminal complaint under 345 IPC,consumer_rights,0.2,district_court,2025-03-26T10:01:20.028550,3
+Police report of cheating under 407 IPC,criminal_law,0.9,police_station,2025-03-24T10:01:20.028550,6
+Civil suit for recovery of ₹1294487 regarding goods,civil_dispute,0.3,district_court,2025-03-24T10:01:20.028550,1
+Police report of theft under 425 IPC,criminal_law,1.0,police_station,2025-03-23T10:01:20.028550,6
+Criminal complaint under 500 IPC,consumer_rights,0.2,district_court,2025-03-22T10:01:20.028550,3
+Police report of theft under 448 IPC,criminal_law,1.0,police_station,2025-03-22T10:01:20.028550,6
+Police report of theft under 472 IPC,criminal_law,1.0,police_station,2025-03-21T10:01:20.028550,6
+Criminal appeal challenging conviction under 411 IPC,taxation,0.3,supreme_court,2025-03-21T10:01:20.028550,12
+Civil suit for recovery of ₹3867857 regarding property,criminal_trial,0.8,district_court,2025-03-20T10:01:20.028550,7
+Criminal complaint under 504 IPC,family_law,0.6,district_court,2025-03-18T10:01:20.028550,8
+Civil suit for recovery of ₹737265 regarding services,family_law,0.6,district_court,2025-03-17T10:01:20.028550,8
+Civil suit for recovery of ₹171360 regarding goods,family_law,0.6,district_court,2025-03-15T10:01:20.028550,8
+Civil suit for recovery of ₹700852 regarding goods,consumer_rights,0.2,district_court,2025-03-14T10:01:20.028550,3
+Police report of assault under 446 IPC,criminal_law,1.0,police_station,2025-03-12T10:01:20.028550,6
+Criminal complaint under 335 IPC,family_law,0.6,district_court,2025-03-12T10:01:20.028550,8
+Police report of criminal intimidation under 408 IPC,criminal_law,0.9,police_station,2025-03-10T10:01:20.028550,6
+Civil suit for recovery of ₹1833501 regarding goods,civil_dispute,0.3,district_court,2025-03-10T10:01:20.028550,1
+Civil suit for recovery of ₹3639778 regarding services,civil_dispute,0.3,district_court,2025-03-10T10:01:20.028550,1
+Civil suit for recovery of ₹630590 regarding goods,civil_dispute,0.3,district_court,2025-03-10T10:01:20.028550,1
+Criminal appeal challenging conviction under 407 IPC,taxation,0.3,supreme_court,2025-03-09T10:01:20.028550,12
+Criminal complaint under 397 IPC,criminal_trial,0.8,district_court,2025-03-09T10:01:20.028550,7
+Criminal complaint under 337 IPC,civil_dispute,0.3,district_court,2025-03-08T10:01:20.028550,1
+Criminal appeal challenging conviction under 305 IPC,civil_appeal,0.4,supreme_court,2025-03-08T10:01:20.028550,0
+Criminal complaint under 340 IPC,family_law,0.6,district_court,2025-03-07T10:01:20.028550,8
+Criminal complaint under 378 IPC,consumer_rights,0.2,district_court,2025-03-07T10:01:20.028550,3
+Criminal complaint under 466 IPC,civil_dispute,0.3,district_court,2025-03-07T10:01:20.028550,1
+Criminal complaint under 366 IPC,family_law,0.6,district_court,2025-03-06T10:01:20.028550,8
+Police report of criminal intimidation under 422 IPC,criminal_law,0.9,police_station,2025-03-05T10:01:20.028550,6
+Civil suit for recovery of ₹879271 regarding loan,family_law,0.6,district_court,2025-03-05T10:01:20.028550,8
+Police report of criminal intimidation under 400 IPC,criminal_law,0.9,police_station,2025-03-04T10:01:20.028550,6
+Petition challenging right to life under Article 28 of Constitution,service_matters,0.5,supreme_court,2025-03-04T10:01:20.028550,11
+Civil suit for recovery of ₹4691512 regarding services,criminal_trial,0.8,district_court,2025-03-03T10:01:20.028550,7
+Petition challenging right to life under Article 20 of Constitution,civil_appeal,0.4,supreme_court,2025-03-03T10:01:20.028550,0
+Civil suit for recovery of ₹4888570 regarding property,criminal_trial,0.8,district_court,2025-03-03T10:01:20.028550,7
+Civil suit for recovery of ₹4848632 regarding goods,criminal_trial,0.8,district_court,2025-03-03T10:01:20.028550,7
+Civil suit for recovery of ₹875403 regarding property,consumer_rights,0.2,district_court,2025-03-02T10:01:20.028550,3
+Criminal appeal challenging conviction under 389 IPC,service_matters,0.5,supreme_court,2025-03-02T10:01:20.028550,11
+Criminal complaint under 365 IPC,consumer_rights,0.2,district_court,2025-02-28T10:01:20.028550,3
+Criminal complaint under 494 IPC,criminal_trial,0.8,district_court,2025-02-27T10:01:20.028550,7
+Police report of assault under 456 IPC,criminal_law,1.0,police_station,2025-02-27T10:01:20.028550,6
+Police report of theft under 453 IPC,criminal_law,1.0,police_station,2025-02-25T10:01:20.028550,6
+Civil suit for recovery of ₹1086773 regarding services,civil_dispute,0.3,district_court,2025-02-25T10:01:20.028550,1
+Petition challenging discrimination under Article 20 of Constitution,constitutional_law,0.8,supreme_court,2025-02-23T10:01:20.028550,2
+My boss hasn't paid my salary for 6 months,labor_law,0.7,user_input,2025-02-19T10:01:20.028550,9
+Criminal complaint under 384 IPC,family_law,0.6,district_court,2025-02-18T10:01:20.028550,8
+Civil suit for recovery of ₹528632 regarding services,consumer_rights,0.2,district_court,2025-02-18T10:01:20.028550,3
+Police report of criminal intimidation under 444 IPC,criminal_law,0.9,police_station,2025-02-17T10:01:20.028550,6
+Police report of theft under 434 IPC,criminal_law,1.0,police_station,2025-02-15T10:01:20.028550,6
+Police report of criminal intimidation under 489 IPC,criminal_law,0.9,police_station,2025-02-15T10:01:20.028550,6
+Police report of assault under 427 IPC,criminal_law,1.0,police_station,2025-02-15T10:01:20.028550,6
+Criminal appeal challenging conviction under 400 IPC,constitutional_law,0.8,supreme_court,2025-02-14T10:01:20.028550,2
+Criminal complaint under 377 IPC,consumer_rights,0.2,district_court,2025-02-13T10:01:20.028550,3
+Criminal appeal challenging conviction under 361 IPC,service_matters,0.5,supreme_court,2025-02-13T10:01:20.028550,11
+Criminal complaint under 423 IPC,family_law,0.6,district_court,2025-02-12T10:01:20.028550,8
+Police report of theft under 406 IPC,criminal_law,1.0,police_station,2025-02-11T10:01:20.028550,6
+Civil suit for recovery of ₹723311 regarding goods,criminal_trial,0.8,district_court,2025-02-10T10:01:20.028550,7
+Petition challenging right to life under Article 27 of Constitution,civil_appeal,0.4,supreme_court,2025-02-07T10:01:20.028550,0
+Criminal appeal challenging conviction under 420 IPC,service_matters,0.5,supreme_court,2025-02-07T10:01:20.028550,11
+Criminal complaint under 350 IPC,civil_dispute,0.3,district_court,2025-02-07T10:01:20.028550,1
+Civil suit for recovery of ₹245029 regarding loan,civil_dispute,0.3,district_court,2025-02-05T10:01:20.028550,1
+Criminal complaint under 457 IPC,civil_dispute,0.3,district_court,2025-02-04T10:01:20.028550,1
+Police report of assault under 468 IPC,criminal_law,1.0,police_station,2025-02-04T10:01:20.028550,6
+Police report of criminal intimidation under 452 IPC,criminal_law,0.9,police_station,2025-02-04T10:01:20.028550,6
+Petition challenging freedom of speech under Article 32 of Constitution,constitutional_law,0.8,supreme_court,2025-02-03T10:01:20.028550,2
+Civil suit for recovery of ₹4470159 regarding services,family_law,0.6,district_court,2025-02-02T10:01:20.028550,8
+Civil suit for recovery of ₹1280806 regarding goods,criminal_trial,0.8,district_court,2025-02-02T10:01:20.028550,7
+Civil suit for recovery of ₹2112521 regarding loan,consumer_rights,0.2,district_court,2025-02-01T10:01:20.028550,3
+Criminal appeal challenging conviction under 371 IPC,criminal_appeal,0.7,supreme_court,2025-01-30T10:01:20.028550,5
+Criminal complaint under 470 IPC,consumer_rights,0.2,district_court,2025-01-27T10:01:20.028550,3
+Criminal complaint under 465 IPC,civil_dispute,0.3,district_court,2025-01-27T10:01:20.028550,1
+Civil suit for recovery of ₹914468 regarding services,family_law,0.6,district_court,2025-01-25T10:01:20.028550,8
+Police report of theft under 431 IPC,criminal_law,1.0,police_station,2025-01-22T10:01:20.028550,6
+Civil suit for recovery of ₹1055319 regarding goods,family_law,0.6,district_court,2025-01-21T10:01:20.028550,8
+Civil suit for recovery of ₹4419396 regarding loan,family_law,0.6,district_court,2025-01-20T10:01:20.028550,8
+Civil suit for recovery of ₹2552565 regarding services,consumer_rights,0.2,district_court,2025-01-20T10:01:20.028550,3
+Civil suit for recovery of ₹2371616 regarding goods,consumer_rights,0.2,district_court,2025-01-20T10:01:20.028550,3
+Police report of cheating under 452 IPC,criminal_law,0.9,police_station,2025-01-18T10:01:20.028550,6
+Civil suit for recovery of ₹4217301 regarding loan,criminal_trial,0.8,district_court,2025-01-16T10:01:20.028550,7
+Criminal appeal challenging conviction under 345 IPC,service_matters,0.5,supreme_court,2025-01-16T10:01:20.028550,11
+Civil suit for recovery of ₹3329037 regarding services,consumer_rights,0.2,district_court,2025-01-14T10:01:20.028550,3
+Criminal appeal challenging conviction under 316 IPC,constitutional_law,0.8,supreme_court,2025-01-12T10:01:20.028550,2
+Civil suit for recovery of ₹901334 regarding loan,civil_dispute,0.3,district_court,2025-01-11T10:01:20.028550,1
+Civil suit for recovery of ₹1881778 regarding services,consumer_rights,0.2,district_court,2025-01-10T10:01:20.028550,3
+Civil suit for recovery of ₹2483291 regarding services,family_law,0.6,district_court,2025-01-09T10:01:20.028550,8
+Criminal complaint under 404 IPC,family_law,0.6,district_court,2025-01-08T10:01:20.028550,8
+Police report of theft under 506 IPC,criminal_law,1.0,police_station,2025-01-08T10:01:20.028550,6
+Civil suit for recovery of ₹1852306 regarding loan,criminal_trial,0.8,district_court,2025-01-08T10:01:20.028550,7
+Civil suit for recovery of ₹2515078 regarding property,civil_dispute,0.3,district_court,2025-01-07T10:01:20.028550,1
+Police report of criminal intimidation under 484 IPC,criminal_law,0.9,police_station,2025-01-06T10:01:20.028550,6
+Civil suit for recovery of ₹1397379 regarding loan,consumer_rights,0.2,district_court,2025-01-05T10:01:20.028550,3
+Civil suit for recovery of ₹2783571 regarding property,criminal_trial,0.8,district_court,2025-01-04T10:01:20.028550,7
+Criminal complaint under 375 IPC,family_law,0.6,district_court,2025-01-03T10:01:20.028550,8
+Police report of cheating under 414 IPC,criminal_law,0.9,police_station,2025-01-03T10:01:20.028550,6
+Criminal complaint under 330 IPC,criminal_trial,0.8,district_court,2024-12-31T10:01:20.028550,7
+Police report of assault under 424 IPC,criminal_law,1.0,police_station,2024-12-24T10:01:20.028550,6
+Police report of cheating under 463 IPC,criminal_law,0.9,police_station,2024-12-24T10:01:20.028550,6
+Criminal appeal challenging conviction under 402 IPC,civil_appeal,0.4,supreme_court,2024-12-23T10:01:20.028550,0
+Criminal complaint under 481 IPC,civil_dispute,0.3,district_court,2024-12-17T10:01:20.028550,1
+Civil suit for recovery of ₹771317 regarding goods,consumer_rights,0.2,district_court,2024-12-17T10:01:20.028550,3
+Civil suit for recovery of ₹434992 regarding services,civil_dispute,0.3,district_court,2024-12-16T10:01:20.028550,1
+Civil suit for recovery of ₹537792 regarding property,civil_dispute,0.3,district_court,2024-12-16T10:01:20.028550,1
+Criminal complaint under 409 IPC,criminal_trial,0.8,district_court,2024-12-15T10:01:20.028550,7
+Criminal appeal challenging conviction under 392 IPC,taxation,0.3,supreme_court,2024-12-15T10:01:20.028550,12
+Police report of cheating under 468 IPC,criminal_law,0.9,police_station,2024-12-14T10:01:20.028550,6
+Civil suit for recovery of ₹1614725 regarding loan,civil_dispute,0.3,district_court,2024-12-13T10:01:20.028550,1
+Police report of theft under 416 IPC,criminal_law,1.0,police_station,2024-12-13T10:01:20.028550,6
+Civil suit for recovery of ₹1257729 regarding goods,criminal_trial,0.8,district_court,2024-12-12T10:01:20.028550,7
+Police report of assault under 454 IPC,criminal_law,1.0,police_station,2024-12-12T10:01:20.028550,6
+Criminal complaint under 419 IPC,civil_dispute,0.3,district_court,2024-12-11T10:01:20.028550,1
+Civil suit for recovery of ₹3453297 regarding property,consumer_rights,0.2,district_court,2024-12-10T10:01:20.028550,3
+Civil suit for recovery of ₹201142 regarding loan,family_law,0.6,district_court,2024-12-08T10:01:20.028550,8
+Civil suit for recovery of ₹1946969 regarding goods,civil_dispute,0.3,district_court,2024-12-07T10:01:20.028550,1
+Criminal appeal challenging conviction under 359 IPC,taxation,0.3,supreme_court,2024-12-06T10:01:20.028550,12
+Criminal complaint under 394 IPC,consumer_rights,0.2,district_court,2024-12-05T10:01:20.028550,3
+Civil suit for recovery of ₹3897522 regarding loan,criminal_trial,0.8,district_court,2024-12-02T10:01:20.028550,7
+Police report of assault under 453 IPC,criminal_law,1.0,police_station,2024-12-02T10:01:20.028550,6
+Police report of cheating under 416 IPC,criminal_law,0.9,police_station,2024-12-01T10:01:20.028550,6
+Civil suit for recovery of ₹3772202 regarding property,family_law,0.6,district_court,2024-12-01T10:01:20.028550,8
+Civil suit for recovery of ₹1218079 regarding loan,consumer_rights,0.2,district_court,2024-12-01T10:01:20.028550,3
+Police report of criminal intimidation under 511 IPC,criminal_law,0.9,police_station,2024-11-30T10:01:20.028550,6
+Criminal appeal challenging conviction under 417 IPC,constitutional_law,0.8,supreme_court,2024-11-30T10:01:20.028550,2
+Police report of theft under 465 IPC,criminal_law,1.0,police_station,2024-11-30T10:01:20.028550,6
+Criminal appeal challenging conviction under 307 IPC,criminal_appeal,0.7,supreme_court,2024-11-30T10:01:20.028550,5
+Criminal appeal challenging conviction under 363 IPC,constitutional_law,0.8,supreme_court,2024-11-30T10:01:20.028550,2
+Petition challenging privacy violation under Article 29 of Constitution,constitutional_law,0.9,supreme_court,2024-11-29T10:01:20.028550,2
+Police report of assault under 381 IPC,criminal_law,1.0,police_station,2024-11-27T10:01:20.028550,6
+Police report of cheating under 413 IPC,criminal_law,0.9,police_station,2024-11-25T10:01:20.028550,6
+Criminal appeal challenging conviction under 349 IPC,taxation,0.3,supreme_court,2024-11-23T10:01:20.028550,12
+Civil suit for recovery of ₹3421708 regarding loan,criminal_trial,0.8,district_court,2024-11-23T10:01:20.028550,7
+Police report of assault under 379 IPC,criminal_law,1.0,police_station,2024-11-21T10:01:20.028550,6
+Criminal appeal challenging conviction under 382 IPC,taxation,0.3,supreme_court,2024-11-21T10:01:20.028550,12
+Criminal complaint under 486 IPC,consumer_rights,0.2,district_court,2024-11-21T10:01:20.028550,3
+Civil suit for recovery of ₹1447313 regarding services,consumer_rights,0.2,district_court,2024-11-20T10:01:20.028550,3
+Criminal complaint under 447 IPC,consumer_rights,0.2,district_court,2024-11-18T10:01:20.028550,3
+Police report of theft under 392 IPC,criminal_law,1.0,police_station,2024-11-18T10:01:20.028550,6
+Police report of assault under 493 IPC,criminal_law,1.0,police_station,2024-11-17T10:01:20.028550,6
+Civil suit for recovery of ₹3226572 regarding services,family_law,0.6,district_court,2024-11-17T10:01:20.028550,8
+Civil suit for recovery of ₹1679093 regarding services,civil_dispute,0.3,district_court,2024-11-16T10:01:20.028550,1
+Civil suit for recovery of ₹4282058 regarding loan,family_law,0.6,district_court,2024-11-15T10:01:20.028550,8
+Criminal appeal challenging conviction under 343 IPC,taxation,0.3,supreme_court,2024-11-15T10:01:20.028550,12
+Police report of criminal intimidation under 405 IPC,criminal_law,0.9,police_station,2024-11-13T10:01:20.028550,6
+Civil suit for recovery of ₹110411 regarding loan,criminal_trial,0.8,district_court,2024-11-13T10:01:20.028550,7
+Civil suit for recovery of ₹4412278 regarding loan,consumer_rights,0.2,district_court,2024-11-11T10:01:20.028550,3
+Civil suit for recovery of ₹2317576 regarding loan,consumer_rights,0.2,district_court,2024-11-10T10:01:20.028550,3
+Police report of theft under 480 IPC,criminal_law,1.0,police_station,2024-11-10T10:01:20.028550,6
+Police report of theft under 464 IPC,criminal_law,1.0,police_station,2024-11-09T10:01:20.028550,6
+Police report of theft under 437 IPC,criminal_law,1.0,police_station,2024-11-06T10:01:20.028550,6
+Civil suit for recovery of ₹283387 regarding loan,civil_dispute,0.3,district_court,2024-11-05T10:01:20.028550,1
+Civil suit for recovery of ₹3672381 regarding loan,criminal_trial,0.8,district_court,2024-11-05T10:01:20.028550,7
+Police report of assault under 478 IPC,criminal_law,1.0,police_station,2024-11-03T10:01:20.028550,6
+Criminal appeal challenging conviction under 362 IPC,criminal_appeal,0.7,supreme_court,2024-11-02T10:01:20.028550,5
+Police report of cheating under 505 IPC,criminal_law,0.9,police_station,2024-11-01T10:01:20.028550,6
+Civil suit for recovery of ₹4965092 regarding property,consumer_rights,0.2,district_court,2024-10-31T10:01:20.028550,3
+Criminal complaint under 469 IPC,consumer_rights,0.2,district_court,2024-10-29T10:01:20.028550,3
+Civil suit for recovery of ₹1949510 regarding services,criminal_trial,0.8,district_court,2024-10-28T10:01:20.028550,7
+Civil suit for recovery of ₹4241639 regarding services,family_law,0.6,district_court,2024-10-28T10:01:20.028550,8
+Civil suit for recovery of ₹980276 regarding loan,family_law,0.6,district_court,2024-10-27T10:01:20.028550,8
+Civil suit for recovery of ₹434600 regarding property,civil_dispute,0.3,district_court,2024-10-26T10:01:20.028550,1
+Criminal complaint under 442 IPC,consumer_rights,0.2,district_court,2024-10-18T10:01:20.028550,3
+Criminal appeal challenging conviction under 404 IPC,criminal_appeal,0.7,supreme_court,2024-10-17T10:01:20.028550,5
+Civil suit for recovery of ₹1260346 regarding goods,civil_dispute,0.3,district_court,2024-10-15T10:01:20.028550,1
+Civil suit for recovery of ₹1676857 regarding services,civil_dispute,0.3,district_court,2024-10-15T10:01:20.028550,1
+Criminal appeal challenging conviction under 350 IPC,civil_appeal,0.4,supreme_court,2024-10-14T10:01:20.028550,0
+Police report of theft under 408 IPC,criminal_law,1.0,police_station,2024-10-13T10:01:20.028550,6
+Criminal complaint under 427 IPC,consumer_rights,0.2,district_court,2024-10-12T10:01:20.028550,3
+Civil suit for recovery of ₹2520967 regarding goods,family_law,0.6,district_court,2024-10-11T10:01:20.028550,8
+Civil suit for recovery of ₹4386208 regarding services,criminal_trial,0.8,district_court,2024-10-11T10:01:20.028550,7
+Criminal complaint under 395 IPC,consumer_rights,0.2,district_court,2024-10-09T10:01:20.028550,3
+Criminal appeal challenging conviction under 373 IPC,civil_appeal,0.4,supreme_court,2024-10-09T10:01:20.028550,0
+Police report of cheating under 443 IPC,criminal_law,0.9,police_station,2024-10-09T10:01:20.028550,6
+Criminal complaint under 349 IPC,civil_dispute,0.3,district_court,2024-10-08T10:01:20.028550,1
+Criminal complaint under 407 IPC,family_law,0.6,district_court,2024-10-04T10:01:20.028550,8
+Civil suit for recovery of ₹3778026 regarding loan,criminal_trial,0.8,district_court,2024-10-03T10:01:20.028550,7
+Civil suit for recovery of ₹2238637 regarding services,civil_dispute,0.3,district_court,2024-09-29T10:01:20.028550,1
+Criminal complaint under 451 IPC,civil_dispute,0.3,district_court,2024-09-28T10:01:20.028550,1
+Civil suit for recovery of ₹3560666 regarding property,family_law,0.6,district_court,2024-09-28T10:01:20.028550,8
+Police report of theft under 397 IPC,criminal_law,1.0,police_station,2024-09-28T10:01:20.028550,6
+Police report of assault under 457 IPC,criminal_law,1.0,police_station,2024-09-28T10:01:20.028550,6
+Police report of theft under 495 IPC,criminal_law,1.0,police_station,2024-09-27T10:01:20.028550,6
+Civil suit for recovery of ₹985746 regarding goods,civil_dispute,0.3,district_court,2024-09-27T10:01:20.028550,1
+Civil suit for recovery of ₹3215181 regarding property,family_law,0.6,district_court,2024-09-26T10:01:20.028550,8
+Civil suit for recovery of ₹3935577 regarding loan,civil_dispute,0.3,district_court,2024-09-26T10:01:20.028550,1
+Police report of cheating under 476 IPC,criminal_law,0.9,police_station,2024-09-23T10:01:20.028550,6
+Criminal appeal challenging conviction under 364 IPC,service_matters,0.5,supreme_court,2024-09-23T10:01:20.028550,11
+Police report of assault under 435 IPC,criminal_law,1.0,police_station,2024-09-20T10:01:20.028550,6
+Police report of theft under 384 IPC,criminal_law,1.0,police_station,2024-09-19T10:01:20.028550,6
+Civil suit for recovery of ₹1991575 regarding loan,criminal_trial,0.8,district_court,2024-09-19T10:01:20.028550,7
+Petition challenging privacy violation under Article 30 of Constitution,taxation,0.4,supreme_court,2024-09-18T10:01:20.028550,12
+Civil suit for recovery of ₹267602 regarding services,civil_dispute,0.3,district_court,2024-09-17T10:01:20.028550,1
+Criminal appeal challenging conviction under 347 IPC,taxation,0.3,supreme_court,2024-09-17T10:01:20.028550,12
+Civil suit for recovery of ₹271646 regarding property,civil_dispute,0.3,district_court,2024-09-17T10:01:20.028550,1
+Criminal complaint under 445 IPC,consumer_rights,0.2,district_court,2024-09-16T10:01:20.028550,3
+Civil suit for recovery of ₹3226704 regarding services,family_law,0.6,district_court,2024-09-15T10:01:20.028550,8
+Criminal appeal challenging conviction under 346 IPC,constitutional_law,0.8,supreme_court,2024-09-13T10:01:20.028550,2
+Police report of criminal intimidation under 497 IPC,criminal_law,0.9,police_station,2024-09-09T10:01:20.028550,6
+Civil suit for recovery of ₹2061531 regarding property,civil_dispute,0.3,district_court,2024-09-07T10:01:20.028550,1
+Petition challenging privacy violation under Article 21 of Constitution,service_matters,0.6,supreme_court,2024-09-07T10:01:20.028550,11
+Police report of criminal intimidation under 411 IPC,criminal_law,0.9,police_station,2024-09-07T10:01:20.028550,6
+Civil suit for recovery of ₹4832007 regarding goods,criminal_trial,0.8,district_court,2024-09-07T10:01:20.028550,7
+Civil suit for recovery of ₹521611 regarding loan,civil_dispute,0.3,district_court,2024-09-06T10:01:20.028550,1
+Criminal complaint under 432 IPC,family_law,0.6,district_court,2024-09-05T10:01:20.028550,8
+Civil suit for recovery of ₹2965123 regarding services,civil_dispute,0.3,district_court,2024-09-03T10:01:20.028550,1
+Civil suit for recovery of ₹4115741 regarding goods,family_law,0.6,district_court,2024-09-02T10:01:20.028550,8
+Police report of cheating under 478 IPC,criminal_law,0.9,police_station,2024-09-02T10:01:20.028550,6
+Civil suit for recovery of ₹3345818 regarding goods,criminal_trial,0.8,district_court,2024-08-30T10:01:20.028550,7
+Police report of criminal intimidation under 427 IPC,criminal_law,0.9,police_station,2024-08-29T10:01:20.028550,6
+Criminal complaint under 401 IPC,consumer_rights,0.2,district_court,2024-08-28T10:01:20.028550,3
+Police report of cheating under 387 IPC,criminal_law,0.9,police_station,2024-08-27T10:01:20.028550,6
+Civil suit for recovery of ₹3474990 regarding loan,consumer_rights,0.2,district_court,2024-08-25T10:01:20.028550,3
+Civil suit for recovery of ₹4024233 regarding property,civil_dispute,0.3,district_court,2024-08-24T10:01:20.028550,1
+Civil suit for recovery of ₹4469968 regarding property,civil_dispute,0.3,district_court,2024-08-23T10:01:20.028550,1
+Civil suit for recovery of ₹1585518 regarding goods,consumer_rights,0.2,district_court,2024-08-22T10:01:20.028550,3
+Civil suit for recovery of ₹4192933 regarding goods,family_law,0.6,district_court,2024-08-21T10:01:20.028550,8
+Civil suit for recovery of ₹4275677 regarding loan,civil_dispute,0.3,district_court,2024-08-19T10:01:20.028550,1
+Criminal complaint under 360 IPC,criminal_trial,0.8,district_court,2024-08-18T10:01:20.028550,7
+Civil suit for recovery of ₹4258414 regarding goods,family_law,0.6,district_court,2024-08-17T10:01:20.028550,8
+Criminal appeal challenging conviction under 342 IPC,criminal_appeal,0.7,supreme_court,2024-08-14T10:01:20.028550,5
+Police report of assault under 442 IPC,criminal_law,1.0,police_station,2024-08-12T10:01:20.028550,6
+Civil suit for recovery of ₹3553765 regarding services,consumer_rights,0.2,district_court,2024-08-12T10:01:20.028550,3
+Civil suit for recovery of ₹3868990 regarding property,civil_dispute,0.3,district_court,2024-08-12T10:01:20.028550,1
+Civil suit for recovery of ₹1643596 regarding services,family_law,0.6,district_court,2024-08-11T10:01:20.028550,8
+Civil suit for recovery of ₹1088700 regarding loan,family_law,0.6,district_court,2024-08-06T10:01:20.028550,8
+Criminal complaint under 382 IPC,criminal_trial,0.8,district_court,2024-08-05T10:01:20.028550,7
+Petition challenging privacy violation under Article 23 of Constitution,service_matters,0.6,supreme_court,2024-08-03T10:01:20.028550,11
+Civil suit for recovery of ₹62482 regarding loan,family_law,0.6,district_court,2024-08-02T10:01:20.028550,8
+Criminal appeal challenging conviction under 370 IPC,criminal_appeal,0.7,supreme_court,2024-07-31T10:01:20.028550,5
+Police report of criminal intimidation under 428 IPC,criminal_law,0.9,police_station,2024-07-30T10:01:20.028550,6
+Police report of cheating under 510 IPC,criminal_law,0.9,police_station,2024-07-30T10:01:20.028550,6
+Civil suit for recovery of ₹2889206 regarding goods,criminal_trial,0.8,district_court,2024-07-28T10:01:20.028550,7
+Police report of cheating under 492 IPC,criminal_law,0.9,police_station,2024-07-22T10:01:20.028550,6
+Police report of assault under 510 IPC,criminal_law,1.0,police_station,2024-07-20T10:01:20.028550,6
+Criminal complaint under 441 IPC,consumer_rights,0.2,district_court,2024-07-20T10:01:20.028550,3
+Civil suit for recovery of ₹3840239 regarding loan,criminal_trial,0.8,district_court,2024-07-19T10:01:20.028550,7
+Civil suit for recovery of ₹4444008 regarding property,criminal_trial,0.8,district_court,2024-07-18T10:01:20.028550,7
+Civil suit for recovery of ₹2793118 regarding goods,family_law,0.6,district_court,2024-07-18T10:01:20.028550,8
+Police report of cheating under 396 IPC,criminal_law,0.9,police_station,2024-07-17T10:01:20.028550,6
+Police report of theft under 444 IPC,criminal_law,1.0,police_station,2024-07-17T10:01:20.028550,6
+Police report of assault under 450 IPC,criminal_law,1.0,police_station,2024-07-17T10:01:20.028550,6
+Civil suit for recovery of ₹2386089 regarding services,civil_dispute,0.3,district_court,2024-07-17T10:01:20.028550,1
+Civil suit for recovery of ₹3362790 regarding services,family_law,0.6,district_court,2024-07-09T10:01:20.028550,8
+Police report of cheating under 440 IPC,criminal_law,0.9,police_station,2024-07-06T10:01:20.028550,6
+Civil suit for recovery of ₹813219 regarding property,consumer_rights,0.2,district_court,2024-07-06T10:01:20.028550,3
+Police report of cheating under 404 IPC,criminal_law,0.9,police_station,2024-07-06T10:01:20.028550,6
+Police report of criminal intimidation under 500 IPC,criminal_law,0.9,police_station,2024-07-06T10:01:20.028550,6
+Criminal appeal challenging conviction under 418 IPC,taxation,0.3,supreme_court,2024-07-06T10:01:20.028550,12
+Criminal complaint under 386 IPC,consumer_rights,0.2,district_court,2024-07-06T10:01:20.028550,3
+Civil suit for recovery of ₹3433582 regarding goods,family_law,0.6,district_court,2024-07-05T10:01:20.028550,8
+Civil suit for recovery of ₹1597792 regarding goods,family_law,0.6,district_court,2024-07-05T10:01:20.028550,8
+Civil suit for recovery of ₹4310359 regarding property,civil_dispute,0.3,district_court,2024-07-04T10:01:20.028550,1
+Civil suit for recovery of ₹376788 regarding loan,family_law,0.6,district_court,2024-07-01T10:01:20.028550,8
+Civil suit for recovery of ₹3430994 regarding goods,criminal_trial,0.8,district_court,2024-07-01T10:01:20.028550,7
+Civil suit for recovery of ₹3030703 regarding services,criminal_trial,0.8,district_court,2024-06-30T10:01:20.028550,7
+Civil suit for recovery of ₹636564 regarding goods,criminal_trial,0.8,district_court,2024-06-29T10:01:20.028550,7
+Police report of theft under 509 IPC,criminal_law,1.0,police_station,2024-06-28T10:01:20.028550,6
+Criminal complaint under 489 IPC,criminal_trial,0.8,district_court,2024-06-28T10:01:20.028550,7
+Civil suit for recovery of ₹2139449 regarding goods,civil_dispute,0.3,district_court,2024-06-27T10:01:20.028550,1
+Civil suit for recovery of ₹3458656 regarding loan,consumer_rights,0.2,district_court,2024-06-25T10:01:20.028550,3
+Civil suit for recovery of ₹4050190 regarding services,family_law,0.6,district_court,2024-06-25T10:01:20.028550,8
+Civil suit for recovery of ₹2695797 regarding property,family_law,0.6,district_court,2024-06-23T10:01:20.028550,8
+Criminal appeal challenging conviction under 313 IPC,service_matters,0.5,supreme_court,2024-06-23T10:01:20.028550,11
+Police report of assault under 400 IPC,criminal_law,1.0,police_station,2024-06-22T10:01:20.028550,6
+Civil suit for recovery of ₹261151 regarding loan,consumer_rights,0.2,district_court,2024-06-22T10:01:20.028550,3
+Police report of cheating under 500 IPC,criminal_law,0.9,police_station,2024-06-20T10:01:20.028550,6
+Criminal appeal challenging conviction under 405 IPC,taxation,0.3,supreme_court,2024-06-16T10:01:20.028550,12
+Civil suit for recovery of ₹3802386 regarding property,criminal_trial,0.8,district_court,2024-06-13T10:01:20.028550,7
+Police report of cheating under 430 IPC,criminal_law,0.9,police_station,2024-06-11T10:01:20.028550,6
+Civil suit for recovery of ₹1798353 regarding loan,criminal_trial,0.8,district_court,2024-06-10T10:01:20.028550,7
+Police report of assault under 420 IPC,criminal_law,1.0,police_station,2024-06-09T10:01:20.028550,6
+Police report of cheating under 402 IPC,criminal_law,0.9,police_station,2024-06-01T10:01:20.028550,6
+Police report of theft under 407 IPC,criminal_law,1.0,police_station,2024-05-31T10:01:20.028550,6
+Criminal complaint under 392 IPC,family_law,0.6,district_court,2024-05-30T10:01:20.028550,8
+Police report of cheating under 381 IPC,criminal_law,0.9,police_station,2024-05-30T10:01:20.028550,6
+Police report of theft under 482 IPC,criminal_law,1.0,police_station,2024-05-27T10:01:20.028550,6
+Petition challenging discrimination under Article 21 of Constitution,criminal_appeal,0.7,supreme_court,2024-05-24T10:01:20.028550,5
+Police report of theft under 440 IPC,criminal_law,1.0,police_station,2024-05-23T10:01:20.028550,6
+Police report of cheating under 496 IPC,criminal_law,0.9,police_station,2024-05-22T10:01:20.028550,6
+Civil suit for recovery of ₹2572665 regarding property,criminal_trial,0.8,district_court,2024-05-19T10:01:20.028550,7
+Civil suit for recovery of ₹903891 regarding property,family_law,0.6,district_court,2024-05-17T10:01:20.028550,8
+Criminal complaint under 474 IPC,criminal_trial,0.8,district_court,2024-05-16T10:01:20.028550,7
+Civil suit for recovery of ₹2473025 regarding property,civil_dispute,0.3,district_court,2024-05-14T10:01:20.028550,1
+Police report of theft under 492 IPC,criminal_law,1.0,police_station,2024-05-11T10:01:20.028550,6
+Criminal complaint under 436 IPC,criminal_trial,0.8,district_court,2024-05-10T10:01:20.028550,7
+Criminal appeal challenging conviction under 321 IPC,constitutional_law,0.8,supreme_court,2024-05-10T10:01:20.028550,2
+Civil suit for recovery of ₹4054817 regarding services,civil_dispute,0.3,district_court,2024-05-08T10:01:20.028550,1
+Civil suit for recovery of ₹1506452 regarding services,family_law,0.6,district_court,2024-05-06T10:01:20.028550,8
+Police report of theft under 460 IPC,criminal_law,1.0,police_station,2024-05-04T10:01:20.028550,6
+Civil suit for recovery of ₹245139 regarding goods,family_law,0.6,district_court,2024-05-03T10:01:20.028550,8
+Civil suit for recovery of ₹1396241 regarding loan,consumer_rights,0.2,district_court,2024-05-02T10:01:20.028550,3
+Police report of criminal intimidation under 468 IPC,criminal_law,0.9,police_station,2024-05-02T10:01:20.028550,6
+Civil suit for recovery of ₹4016507 regarding goods,consumer_rights,0.2,district_court,2024-04-30T10:01:20.028550,3
+Civil suit for recovery of ₹886825 regarding goods,consumer_rights,0.2,district_court,2024-04-28T10:01:20.028550,3
+Civil suit for recovery of ₹876245 regarding loan,family_law,0.6,district_court,2024-04-26T10:01:20.028550,8
+Police report of assault under 443 IPC,criminal_law,1.0,police_station,2024-04-24T10:01:20.028550,6
+Civil suit for recovery of ₹4692501 regarding goods,consumer_rights,0.2,district_court,2024-04-22T10:01:20.028550,3
+Police report of cheating under 410 IPC,criminal_law,0.9,police_station,2024-04-20T10:01:20.028550,6
+Petition challenging discrimination under Article 32 of Constitution,constitutional_law,0.8,supreme_court,2024-04-20T10:01:20.028550,2
+Civil suit for recovery of ₹956532 regarding services,consumer_rights,0.2,district_court,2024-04-16T10:01:20.028550,3
+Petition challenging right to life under Article 23 of Constitution,constitutional_law,0.8,supreme_court,2024-04-16T10:01:20.028550,2
+Police report of theft under 454 IPC,criminal_law,1.0,police_station,2024-04-15T10:01:20.028550,6
+Criminal complaint under 371 IPC,civil_dispute,0.3,district_court,2024-04-13T10:01:20.028550,1
+Civil suit for recovery of ₹3423994 regarding loan,family_law,0.6,district_court,2024-04-13T10:01:20.028550,8
+Civil suit for recovery of ₹3417492 regarding services,criminal_trial,0.8,district_court,2024-04-12T10:01:20.028550,7
+Police report of criminal intimidation under 430 IPC,criminal_law,0.9,police_station,2024-04-11T10:01:20.028550,6
+Civil suit for recovery of ₹189680 regarding goods,consumer_rights,0.2,district_court,2024-04-10T10:01:20.028550,3
+Police report of assault under 451 IPC,criminal_law,1.0,police_station,2024-04-05T10:01:20.028550,6
+Civil suit for recovery of ₹3234272 regarding property,civil_dispute,0.3,district_court,2024-04-03T10:01:20.028550,1
+Police report of cheating under 457 IPC,criminal_law,0.9,police_station,2024-04-03T10:01:20.028550,6
+Civil suit for recovery of ₹405942 regarding goods,civil_dispute,0.3,district_court,2024-03-28T10:01:20.028550,1

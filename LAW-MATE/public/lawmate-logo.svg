@@ -1,0 +1,39 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="120" height="120" viewBox="0 0 120 120" role="img" aria-label="LawMate logo">
+  <defs>
+    <linearGradient id="nm" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0%" stop-color="#07223A" />
+      <stop offset="100%" stop-color="#0B3B61" />
+    </linearGradient>
+    <linearGradient id="gold" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0%" stop-color="#D2A84B" />
+      <stop offset="100%" stop-color="#B8862D" />
+    </linearGradient>
+  </defs>
+
+  <!-- soft rounded square background for icon -->
+  <rect x="4" y="4" width="112" height="112" rx="18" fill="url(#nm)" />
+
+  <!-- shield shape -->
+  <path d="M60 24c-14 0-22 6-28 18 4 20 12 30 28 38 16-8 24-18 28-38-6-12-14-18-28-18z" fill="#0F2740" opacity="0.95" />
+
+  <!-- inner shield highlight -->
+  <path d="M60 34c-9.5 0-14 4-18 12 2.5 12 8 18 18 24 10-6 15.5-12 18-24-4-8-8.5-12-18-12z" fill="#12314A" opacity="0.9" />
+
+  <!-- scales (symbol of justice) centered in shield -->
+  <g transform="translate(60,54)">
+    <!-- central pillar -->
+    <rect x="-1" y="-18" width="2" height="28" fill="url(#gold)" rx="1" />
+    <!-- cross beam -->
+    <rect x="-16" y="-20" width="32" height="4" fill="url(#gold)" rx="2" />
+    <!-- left scale -->
+    <path d="M-14 -4c-6 0-10 4-10 6 0 2 4 6 10 6s10-4 10-6c0-2-4-6-10-6z" fill="#F6E7C4" stroke="#C49A3A" stroke-width="1" />
+    <!-- right scale -->
+    <path d="M14 -4c-6 0-10 4-10 6 0 2 4 6 10 6s10-4 10-6c0-2-4-6-10-6z" fill="#F6E7C4" stroke="#C49A3A" stroke-width="1" />
+    <!-- hanging lines to scales -->
+    <path d="M-2 -20 L-12 -4" stroke="#C49A3A" stroke-width="1.5" stroke-linecap="round" />
+    <path d="M2 -20 L12 -4" stroke="#C49A3A" stroke-width="1.5" stroke-linecap="round" />
+  </g>
+
+  <!-- subtle outer rim for contrast -->
+  <rect x="4" y="4" width="112" height="112" rx="18" fill="none" stroke="#0B3B61" stroke-opacity="0.12" stroke-width="2" />
+</svg>

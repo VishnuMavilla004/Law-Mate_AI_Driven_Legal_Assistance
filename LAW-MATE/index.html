@@ -1,0 +1,103 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <link rel="icon" href="/lawmate-logo.svg" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>LawMate – Your Intelligent Legal Rights Companion</title>
+    <script src="https://cdn.tailwindcss.com"></script>
+    <link rel="preconnect" href="https://fonts.googleapis.com">
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+    <link href="https://fonts.googleapis.com/css2?family=Inter:wght@400;500;600;700&family=Poppins:wght@600;700;800&display=swap" rel="stylesheet">
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/jspdf/2.5.1/jspdf.umd.min.js"></script>
+    <script>
+      tailwind.config = {
+        theme: {
+          extend: {
+            fontFamily: {
+              sans: ['Inter', 'sans-serif'],
+              heading: ['Poppins', 'sans-serif'],
+            },
+            colors: {
+              primary: {
+                DEFAULT: '#0B3B61', // deep navy
+                dark: '#042233',
+                light: '#214E6A',
+              },
+              secondary: {
+                DEFAULT: '#B8862D', // warm gold
+                dark: '#8A691E',
+                light: '#D2A84B',
+              },
+              accent: {
+                DEFAULT: '#A7C0C8', // soft steel/teal
+                dark: '#6F9AA3',
+                light: '#DDEEEF',
+              },
+              warning: {
+                DEFAULT: '#FFB300',
+                light: '#FFF8E1',
+                dark: '#B28800',
+              },
+              background: '#F7F9FB',
+              surface: '#FFFFFF',
+              text: {
+                DEFAULT: '#071826',
+                secondary: '#6b7280',
+              },
+              border: '#e6eef3',
+            }
+          }
+        }
+      }
+    </script>
+    <style>
+      :root { color-scheme: light; }
+      body {
+        /* subtle, professional light background */
+        background: linear-gradient(135deg, #F7F9FB 0%, #FFFFFF 100%) fixed;
+        color: #071826;
+      }
+
+      /* watermark logo overlay (faint) */
+      body::after {
+        content: '';
+        position: fixed;
+        top: 50%;
+        left: 50%;
+        width: 48vw;
+        height: 48vw;
+        max-width: 520px;
+        max-height: 520px;
+        background: url('/lawmate-logo-variant.svg') center/contain no-repeat;
+        opacity: 0.035;
+        pointer-events: none;
+        transform: translate(-50%, -50%);
+      }
+
+      .text-glow {
+        text-shadow: 0 0 8px rgba(11,59,97,0.08);
+      }
+
+      /* Custom scrollbar matching a neutral tone */
+      ::-webkit-scrollbar { width: 10px; height: 10px; }
+      ::-webkit-scrollbar-track { background: #f3f6f8; }
+      ::-webkit-scrollbar-thumb { background: #cbd5e1; border-radius: 10px; }
+      ::-webkit-scrollbar-thumb:hover { background: #94a3b8; }
+    </style>
+  <script type="importmap">
+{
+  "imports": {
+    "react/": "https://aistudiocdn.com/react@^19.2.0/",
+    "react": "https://aistudiocdn.com/react@^19.2.0",
+    "react-dom/": "https://aistudiocdn.com/react-dom@^19.2.0/",
+    "@google/genai": "https://aistudiocdn.com/@google/genai@^1.29.1"
+  }
+}
+</script>
+</head>
+  <body class="bg-background text-text">
+    <div id="root"></div>
+    <script type="module" src="/index.tsx"></script>
+  </body>
+</html>

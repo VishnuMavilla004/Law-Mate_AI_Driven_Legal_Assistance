@@ -1,0 +1,10 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="120" height="120" viewBox="0 0 120 120" role="img" aria-label="LawMate monochrome logo">
+  <rect width="120" height="120" rx="18" fill="none" />
+  <g transform="translate(60,60)" fill="#071826">
+    <path d="M0-30c-12 0-18 5-22 15 3 16 9 24 22 30 13-6 19-14 22-30-4-10-10-15-22-15z" />
+    <rect x="-1" y="-10" width="2" height="20" />
+    <rect x="-20" y="-12" width="40" height="4" rx="2" />
+    <path d="M-18 6c-4 0-7 2-7 4 0 1.5 3 4 7 4s7-2.5 7-4c0-1.5-3-4-7-4z" fill="#071826" />
+    <path d="M18 6c-4 0-7 2-7 4 0 1.5 3 4 7 4s7-2.5 7-4c0-1.5-3-4-7-4z" fill="#071826" />
+  </g>
+</svg>

@@ -1,0 +1,561 @@
+text,severity_score
+"My employer has not paid my salary for three months despite multiple reminders",0.7
+"I was fired from my job without any valid reason or notice",0.8
+"My boss is harassing me at work and creating a hostile environment",0.75
+"I work 12 hours a day but only get paid for 8 hours",0.6
+"My company refuses to pay overtime despite working extra hours",0.65
+"I was denied maternity leave by my employer",0.7
+"My workplace doesn't provide proper safety equipment",0.8
+"I was discriminated against based on my age at work",0.75
+"My employer deducted money from my salary without explanation",0.6
+"I was forced to work on holidays without extra pay",0.55
+"My landlord won't return my security deposit after I moved out",0.4
+"The landlord entered my apartment without permission",0.6
+"My neighbor's construction is damaging my property",0.5
+"I received an eviction notice without proper cause",0.7
+"The rental agreement has unfair clauses that weren't explained",0.45
+"My landlord refuses to fix the leaking roof in my apartment",0.55
+"The property I bought has boundary disputes with neighbors",0.5
+"I was overcharged for maintenance fees in my apartment complex",0.35
+"My landlord changed the locks while I was away",0.8
+"The apartment I rented has serious electrical problems",0.65
+"Someone hacked into my online banking account and stole money",0.9
+"I received a phishing email that stole my personal information",0.8
+"My social media account was hacked and used to post inappropriate content",0.75
+"Online fraud through fake investment schemes",0.85
+"I am being cyberstalked through various online platforms",0.8
+"My credit card information was stolen from an online store",0.85
+"I was scammed through a fake job posting online",0.7
+"Someone impersonated me online and damaged my reputation",0.75
+"My computer was infected with ransomware demanding payment",0.9
+"Online harassment through anonymous messages and posts",0.7
+"My husband physically assaulted me during an argument",0.95
+"I was robbed at gunpoint while walking home",0.95
+"I was robbed at gunpoint while walking home",0.95
+"Someone broke into my house and stole valuable items",0.85
+"I witnessed a hit and run accident but the driver fled",0.8
+"My neighbor threatened me with violence over a property dispute",0.8
+"I was falsely accused of shoplifting at a store",0.6
+"Domestic violence incident involving physical abuse",0.9
+"Someone vandalized my car in the parking lot",0.65
+"I was assaulted by a stranger on the street",0.85
+"Burglary attempt at my residence",0.8
+"The product I bought online was completely different from advertised",0.3
+"I purchased a defective electronic device that stopped working after a week",0.4
+"The company refuses to refund my money for a faulty product",0.35
+"I was charged twice for the same online purchase",0.25
+"The warranty on my appliance expired before the product failed",0.45
+"I received damaged goods in my online order",0.3
+"The store refused to accept returns without receipt",0.4
+"I was sold counterfeit products as genuine",0.5
+"The service provider didn't deliver what was promised in the contract",0.4
+"I was overcharged for services I didn't receive",0.35
+"My professor discriminated against me based on my religion",0.7
+"The college refused to provide accommodations for my disability",0.75
+"I was expelled from university without proper investigation",0.8
+"The school is not following the curriculum standards",0.6
+"I was denied admission due to bias in the selection process",0.7
+"The educational institution charged excessive fees without transparency",0.5
+"My teacher gave me unfair grades without justification",0.55
+"I was denied access to educational records",0.45
+"My scholarship was revoked without cause",0.65
+"The college didn't honor the scholarship agreement",0.6
+"My business partner cheated me out of profits",0.75
+"The supplier breached our contract by not delivering goods",0.65
+"I was sued by a competitor for false advertising claims",0.7
+"My company was accused of intellectual property theft",0.8
+"The investor backed out of our agreement at the last minute",0.6
+"I signed a partnership agreement with unfair terms",0.55
+"My business was defamed by false online reviews",0.65
+"The vendor didn't fulfill the service level agreement",0.6
+"I was forced into an unfavorable business merger",0.7
+"My trademark was infringed by another company",0.75
+"My supervisor creates a toxic work environment",0.7
+"I was passed over for promotion due to gender discrimination",0.75
+"The company fired me for taking medical leave",0.8
+"I work in unsafe conditions without proper protective gear",0.85
+"My employer monitors my personal communications without consent",0.65
+"I was forced to sign a non-compete agreement after leaving",0.6
+"The company doesn't provide paid sick leave as promised",0.55
+"I was retaliated against for reporting workplace harassment",0.8
+"My salary is below minimum wage for my role",0.7
+"The workplace doesn't accommodate my religious practices",0.65
+"My apartment building has major plumbing issues that won't be fixed",0.6
+"My landlord increased rent without proper notice",0.5
+"The condo association charges excessive maintenance fees",0.4
+"The property developer didn't complete promised amenities",0.55
+"My tenant refuses to pay rent and damages property",0.7
+"The landlord discriminated in tenant selection",0.75
+"Property tax assessment was incorrect and too high",0.45
+"The HOA rules are unfairly enforced",0.5
+"I was sold property with undisclosed liens",0.65
+"My neighbor built on my property line",0.55
+"Someone hacked my smart home devices",0.75
+"My email account was compromised and used to send spam",0.7
+"I created fake social media profiles using my identity",0.8
+"I was targeted by a sophisticated phishing campaign",0.8
+"My online banking was hacked through a malware infection",0.9
+"Identity theft through stolen personal information",0.85
+"I was targeted by a DDoS attack",0.75
+"My website was hacked and defaced",0.7
+"Online auction fraud",0.65
+"I was victim of a data breach",0.8
+"I was attacked by my spouse during a domestic dispute",0.9
+"I was robbed at an ATM",0.85
+"I witnessed a violent crime but fear retaliation",0.8
+"Burglary of my business premises",0.8
+"Threats of violence from an unknown caller",0.75
+"I was falsely accused of a crime I didn't commit",0.7
+"Stalking by a former partner",0.8
+"Vandalism of personal property",0.6
+"Someone forged my signature on legal documents",0.8
+"Armed robbery at a convenience store",0.9
+"The restaurant served me food that made me ill",0.5
+"I bought a car that had undisclosed mechanical problems",0.6
+"The service contract had hidden cancellation fees",0.4
+"The product I bought was past its expiration date",0.45
+"The warranty claim was denied without valid reason",0.5
+"I purchased software that doesn't work as advertised",0.4
+"The company charged me for services I cancelled",0.35
+"I received the wrong item in my online order",0.3
+"False advertising led me to purchase an inferior product",0.45
+"My university discriminated against me based on nationality",0.75
+"The school failed to provide accessible facilities",0.8
+"I was suspended without due process",0.7
+"Discrimination in student housing assignments",0.65
+"My grades were changed without explanation",0.6
+"The college didn't honor financial aid",0.65
+"I was denied transfer credits unfairly",0.55
+"The institution failed to report campus safety incidents",0.75
+"My scholarship was revoked unfairly",0.7
+"The school charged unauthorized fees",0.5
+"My co-founder stole company intellectual property",0.8
+"The supplier provided substandard materials",0.65
+"I was sued for breach of non-disclosure agreement",0.7
+"The joint venture partner breached fiduciary duty",0.75
+"Unfair competition from a former employee",0.7
+"My business was libeled in news articles",0.7
+"The merger agreement had undisclosed liabilities",0.75
+"I was forced to buy out my partner's share unfairly",0.65
+"Trademark infringement by a competitor",0.75
+"Contract dispute over delivery terms",0.6
+"My manager spreads rumors about me at work",0.65
+"I was denied training opportunities based on race",0.75
+"The company violated my privacy rights",0.7
+"I work excessive overtime without compensation",0.7
+"My employer refused reasonable accommodation for disability",0.8
+"I was wrongfully terminated during probation",0.75
+"The workplace has discriminatory hiring practices",0.8
+"I was forced to work off the clock",0.75
+"My performance review was unfairly negative",0.6
+"The company doesn't provide adequate breaks",0.55
+"The property I inherited has title disputes",0.6
+"My landlord refuses to address pest infestation",0.55
+"The condo board mismanaged reserve funds",0.5
+"I was charged for repairs I didn't authorize",0.4
+"The survey showed boundary encroachments",0.5
+"My tenant sublet without permission",0.65
+"The landlord changed lease terms mid-tenancy",0.55
+"I discovered the property was foreclosed previously",0.7
+"The HOA fined me unfairly",0.45
+"My neighbor's fence encroaches on my land",0.4
+"Corporate espionage through hacked email",0.85
+"Someone stole my intellectual property online",0.8
+"I was targeted by ransomware attack",0.9
+"Fake news articles damaged my business reputation",0.75
+"Unauthorized access to my email and contacts",0.7
+"Cyber attack disrupted my business operations",0.85
+"Someone leaked confidential company information",0.8
+"Investment scam through fake cryptocurrency",0.8
+"Data breach exposed my account information",0.8
+"Phishing attack impersonating government agencies",0.75
+"Carjacking at an intersection",0.9
+"I was assaulted while walking my dog",0.85
+"I was mugged while jogging in the park",0.85
+"Reckless driving caused property damage",0.75
+"Harassing phone calls from unknown numbers",0.7
+"I witnessed a drug deal gone wrong",0.8
+"Arson at a commercial property",0.85
+"Someone keyed my car in a parking dispute",0.55
+"Forgery of official documents",0.8
+"Stalking through repeated unwanted contact",0.75
+"The airline lost my luggage and refused compensation",0.4
+"I bought furniture that arrived damaged",0.35
+"The gym membership had hidden fees",0.3
+"I was served food that made me ill",0.5
+"The product broke during normal use within warranty",0.4
+"I was overbilled for utilities",0.35
+"I received incomplete documentation with purchase",0.3
+"The product packaging was misleading",0.35
+"I was charged for returned merchandise",0.4
+"False claims in product advertising",0.45
+"My child was bullied at school without intervention",0.75
+"The school district misallocated funds",0.65
+"I was denied special education services",0.8
+"Discrimination in extracurricular activities",0.7
+"The college breached enrollment contract",0.6
+"My tuition was increased without notice",0.55
+"The school failed to provide transportation",0.65
+"I was suspended for protected speech",0.7
+"Unfair standardized testing practices",0.6
+"The institution didn't meet diversity requirements",0.7
+"My franchise agreement was terminated unfairly",0.7
+"The distributor refused to stock my products",0.6
+"I was sued for false advertising",0.7
+"The licensing agreement was breached",0.65
+"My business partner filed for bankruptcy",0.75
+"Anti-competitive behavior by suppliers",0.7
+"The merger was blocked by regulatory issues",0.65
+"I was forced to accept unfavorable contract terms",0.6
+"Domain name dispute with cybersquatter",0.55
+"Payment dispute with international client",0.6
+"My coworker sabotages my work performance",0.65
+"I was denied leave for family emergency",0.7
+"The company tracks employee location",0.7
+"I work in hazardous conditions without training",0.85
+"My employer denied workers compensation",0.8
+"I was constructively dismissed",0.75
+"Discriminatory performance evaluations",0.75
+"The workplace lacks emergency exits",0.8
+"I was forced to sign a liability waiver",0.6
+"My salary was reduced without agreement",0.7
+"The house I bought has foundation problems",0.65
+"My landlord harasses tenants for complaints",0.75
+"The property management is negligent",0.6
+"I was double-billed for property taxes",0.35
+"The property lines were surveyed incorrectly",0.5
+"My tenant illegally modified the property",0.7
+"The rental agreement violates tenant rights",0.65
+"I discovered the property had toxic mold",0.8
+"The HOA enforces discriminatory rules",0.75
+"My neighbor's noise violates bylaws",0.45
+"State-sponsored cyber attacks on my data",0.9
+"Someone hacked my cryptocurrency wallet",0.85
+"I was victim of sextortion",0.9
+"Fake social media accounts impersonate me",0.75
+"Unauthorized access to my medical records",0.8
+"Cyber attack on my manufacturing systems",0.85
+"Someone stole my digital artwork",0.7
+"Romance scam through dating apps",0.75
+"Data breach at healthcare provider",0.8
+"Phishing attack using deepfakes",0.8
+"Home invasion robbery",0.95
+"I was assaulted in a parking garage",0.85
+"I was mugged while walking home at night",0.85
+"Dangerous driving caused pedestrian injury",0.8
+"Threatening letters received at home",0.75
+"I witnessed a murder attempt",0.9
+"Arson at residential property",0.85
+"Someone spray-painted my house",0.6
+"Counterfeiting of identification cards",0.75
+"Stalking through unwanted gifts",0.7
+"The cable company overcharged for months",0.3
+"I bought a vehicle with undisclosed accidents",0.55
+"The insurance policy had exclusions not explained",0.4
+"I was served contaminated food",0.6
+"The product warranty was shorter than advertised",0.4
+"Subscription service charged after cancellation",0.3
+"I received wrong size merchandise",0.25
+"The product had undisclosed recalls",0.5
+"I was overbilled for prescription",0.4
+"False environmental claims in advertising",0.4
+"The professor showed bias in classroom",0.7
+"The school board misspent public funds",0.75
+"I was denied honors program access",0.65
+"Discrimination in athletic scholarships",0.75
+"The university breached research contract",0.65
+"My financial aid was reduced unfairly",0.7
+"The school failed to provide counseling",0.7
+"I was expelled for political activism",0.75
+"Unfair academic probation policies",0.65
+"The institution violated FERPA",0.7
+"My startup was sued by former employees",0.75
+"The manufacturer failed product specifications",0.65
+"I was accused of patent infringement",0.75
+"The shareholder agreement was breached",0.7
+"My competitor engaged in price fixing",0.8
+"The company was libeled by media",0.7
+"The IPO was cancelled due to market conditions",0.65
+"I was forced into binding arbitration",0.6
+"Copyright violation by a third party",0.7
+"International trade law violation",0.7
+"My team lead assigns all difficult tasks to me",0.6
+"I was denied vacation time accrued",0.55
+"The company reads employee emails",0.7
+"I work with dangerous equipment untrained",0.85
+"My employer refused FMLA leave",0.8
+"I was fired for political beliefs",0.8
+"Biased disciplinary procedures",0.75
+"The workplace has poor air quality",0.75
+"I was forced to waive overtime pay",0.65
+"My commission was miscalculated",0.5
+"The commercial property has zoning violations",0.6
+"My landlord evicts for rent control violation",0.75
+"The property management is corrupt",0.8
+"I was charged for utilities included in rent",0.4
+"The property appraisal was incorrect",0.45
+"My tenant runs illegal business",0.8
+"The lease agreement is in foreign language",0.55
+"I discovered the property has earthquake damage",0.75
+"The HOA enforces arbitrary rules",0.5
+"My neighbor's lights shine into my windows",0.4
+"Advanced persistent threat targeting my network",0.9
+"Someone hacked my smart car",0.8
+"I was victim of doxxing",0.85
+"Fake news campaign against me",0.8
+"Unauthorized access to my tax records",0.75
+"Cyber attack on my supply chain",0.85
+"Someone leaked my source code",0.8
+"Grandparent scam through phone",0.7
+"Data breach at credit bureau",0.8
+"Phishing using voice cloning",0.8
+"Bank robbery with hostages",0.95
+"I was assaulted in an elevator",0.85
+"I was mugged at a bus stop",0.85
+"Impaired driving caused fatal accident",0.95
+"Intimidating voicemails",0.7
+"I witnessed a terrorist threat",0.9
+"Arson at historical building",0.85
+"Someone scratched my vehicle",0.55
+"Counterfeiting of software licenses",0.65
+"Stalking through hidden cameras",0.8
+"The pharmacy gave wrong medication",0.7
+"I bought a home with undisclosed defects",0.65
+"The credit card agreement had hidden fees",0.4
+"I was served undercooked meat",0.5
+"The product warranty was invalidated",0.45
+"Subscription box contained wrong items",0.3
+"I received counterfeit merchandise",0.5
+"The product had toxic substances",0.8
+"I was overbilled for consultations",0.35
+"False health benefit claims",0.5
+"The principal showed favoritism",0.7
+"The school district overcharged for supplies",0.55
+"I was denied gifted program admission",0.65
+"Discrimination in teacher assignments",0.75
+"The college breached housing contract",0.6
+"My grants were reduced without reason",0.65
+"The school failed to provide textbooks",0.6
+"I was suspended for social media posts",0.7
+"Unfair attendance policies",0.6
+"The institution violated Title IX",0.8
+"My corporation was sued by shareholders",0.75
+"The supplier failed delivery deadlines",0.65
+"I was accused of false light",0.7
+"The operating agreement was unfair",0.6
+"My competitor engaged in astroturfing",0.7
+"The business was libeled by competitors",0.7
+"The financing fell through",0.65
+"I was forced into unfavorable settlement",0.65
+"Patent dispute with competitor",0.75
+"Currency fluctuation dispute in contract",0.55
+"My director micromanages excessively",0.6
+"I was denied bereavement leave",0.65
+"The company monitors personal devices",0.7
+"I operate heavy machinery without certification",0.85
+"My employer refused pregnancy accommodation",0.8
+"I was fired for wearing hijab",0.8
+"Biased investigation procedures",0.75
+"The workplace has tripping hazards",0.7
+"I was forced to buy company products",0.55
+"My bonus was withheld without cause",0.6
+"The office building has asbestos",0.85
+"My landlord increases rent annually",0.5
+"The property management is inefficient",0.55
+"I was charged for repairs not done",0.4
+"The property millage was incorrect",0.4
+"My tenant grows marijuana",0.8
+"The lease agreement is unenforceable",0.6
+"I discovered the property has sinkholes",0.75
+"The HOA board is self-dealing",0.75
+"My neighbor's barbecue smoke disturbs peace",0.4
+"Supply chain attack on my vendors",0.85
+"Someone hacked my smart home security",0.8
+"I was victim of swatting",0.9
+"Fake endorsement campaign",0.75
+"Unauthorized access to my investment accounts",0.8
+"Cyber attack on my POS systems",0.85
+"Someone stole my video content",0.7
+"Extended car warranty scam",0.6
+"Data breach at voter registration",0.8
+"Phishing using QR code malware",0.75
+"Serial killer targeting community",0.95
+"I was assaulted in a restroom",0.85
+"I was mugged while using ATM",0.85
+"Texting while driving caused accident",0.8
+"Harassing emails from ex-partner",0.7
+"I witnessed a bombing attempt",0.9
+"Arson at shopping mall",0.85
+"Someone dented my car door",0.55
+"Forgery of prescriptions",0.8
+"Stalking through unwanted phone calls",0.75
+"The mechanic overcharged for repairs",0.4
+"I bought a timeshare with hidden costs",0.5
+"The loan agreement had predatory terms",0.6
+"I was served food with foreign objects",0.6
+"The product warranty was prorated",0.45
+"Magazine subscription continued after stop",0.3
+"I received incomplete furniture assembly",0.35
+"The product had lead contamination",0.8
+"I was billed for free trial",0.3
+"False cruelty-free claims",0.4
+"The counselor showed bias in advising",0.7
+"The school district underfunded programs",0.7
+"I was denied study abroad program",0.65
+"Discrimination in research opportunities",0.75
+"The university breached financial aid contract",0.65
+"My work study was terminated",0.6
+"The school failed to provide internet",0.6
+"I was failed for attendance policy",0.65
+"Unfair library access policies",0.55
+"The institution violated research ethics",0.75
+"My partnership was sued by customers",0.7
+"The contractor failed building codes",0.65
+"I was accused of misappropriation",0.75
+"The bylaws were amended unfairly",0.65
+"My competitor engaged in greenwashing",0.7
+"The company was defamed by ex-employees",0.7
+"The seed funding was pulled",0.65
+"I was forced into class action lawsuit",0.75
+"Domain name cybersquatting",0.55
+"Customs duty dispute",0.6
+"My coordinator assigns busywork",0.55
+"I was denied mental health days",0.65
+"The company monitors time clocks",0.7
+"I work with pathogens without protocols",0.9
+"My employer refused domestic partner benefits",0.75
+"I was fired for dating coworker",0.7
+"Biased grievance procedures",0.75
+"The workplace has temperature issues",0.7
+"I was forced to attend company meetings unpaid",0.6
+"My pension was miscalculated",0.65
+"The warehouse has structural issues",0.75
+"My landlord charges pet deposits",0.4
+"The property management is unresponsive",0.55
+"I was charged for cleaning not needed",0.35
+"The property insurance was inadequate",0.6
+"My tenant has excessive guests",0.6
+"The lease agreement is confusing",0.45
+"I discovered the property has unpermitted additions",0.65
+"The HOA president embezzles funds",0.8
+"My neighbor's satellite dish blocks view",0.4
+"API compromise through third party",0.8
+"Someone hacked my robot vacuum",0.7
+"I was victim of business email compromise",0.8
+"Fake charity campaign",0.7
+"Unauthorized access to my insurance records",0.75
+"Cyber attack on my logistics systems",0.85
+"Someone stole my graphic designs",0.7
+"Vacation rental scam",0.6
+"Data breach at pharmacy benefits manager",0.8
+"Phishing using SMS spoofing",0.75
+"Organized crime extortion",0.9
+"I was assaulted in a club",0.85
+"I was mugged in a dark alley",0.85
+"Drunk driving caused multiple injuries",0.9
+"Intimidating social media messages",0.7
+"I witnessed a suicide attempt",0.8
+"Arson at storage facility",0.8
+"Someone egged my car",0.5
+"Forgery of financial documents",0.8
+"Stalking through unwanted contact",0.75
+"The dentist performed unnecessary procedures",0.6
+"I bought a piano with tuning problems",0.45
+"The financing agreement had prepayment penalties",0.5
+"I was served incorrect order",0.35
+"The product warranty was voided for normal wear",0.45
+"Newspaper delivery continued after stop",0.3
+"I received damaged sporting goods",0.4
+"The product had mercury contamination",0.8
+"I was billed for service call",0.35
+"False non-GMO claims",0.4
+"The registrar showed bias",0.7
+"The school district misspent funds",0.75
+"I was denied course registration",0.6
+"Discrimination in club memberships",0.7
+"The college breached transfer agreement",0.6
+"My stipend was delayed",0.55
+"The school failed to provide lab space",0.65
+"I was disciplined for peaceful protest",0.75
+"Unfair final exam policies",0.6
+"The institution violated privacy rights",0.7
+"My nonprofit was sued by donors",0.7
+"The freelancer failed project requirements",0.65
+"I was accused of disparagement",0.7
+"The articles of incorporation were challenged",0.65
+"My competitor engaged in product disparagement",0.7
+"The business was defamed by bloggers",0.7
+"The bridge loan was called",0.65
+"I was forced into small claims court",0.6
+"Service mark infringement",0.7
+"Import quota violation",0.65
+"My lead ignores my contributions",0.6
+"I was denied floating holidays",0.55
+"The company monitors parking lot",0.7
+"I work with radiation without monitoring",0.9
+"My employer refused sabbatical",0.7
+"I was fired for Facebook posts",0.75
+"Biased dress code enforcement",0.7
+"The workplace has poor lighting",0.65
+"I was forced to use vacation for sick days",0.6
+"My stock options were clawed back",0.7
+"The retail space has code issues",0.65
+"My landlord charges application fees",0.4
+"The property management is discriminatory",0.8
+"I was charged for landlord's mistakes",0.4
+"The property assessment appealed unsuccessfully",0.45
+"My tenant violates noise ordinances",0.6
+"The lease agreement is one-sided",0.55
+"I discovered the property has meth lab history",0.85
+"The HOA enforces arbitrary rules",0.5
+"My neighbor's wind chimes are too loud",0.4
+"Cloud service provider breach",0.8
+"Someone hacked my drone",0.75
+"I was victim of SIM swapping",0.85
+"Fake crowdfunding campaign",0.75
+"Unauthorized access to my retirement accounts",0.8
+"Cyber attack on my ERP systems",0.85
+"Someone stole my photography portfolio",0.7
+"Timeshare presentation scam",0.65
+"Data breach at background check service",0.8
+"Phishing using malicious PDFs",0.75
+"Drug cartel violence",0.95
+"I was assaulted in a taxi",0.85
+"I was mugged while shopping",0.85
+"Speeding caused wrongful death",0.95
+"Harassing letters from stranger",0.7
+"I witnessed a drug overdose",0.8
+"Arson at abandoned building",0.8
+"Someone broke my windows",0.6
+"Counterfeiting of luxury goods",0.7
+"Stalking through following in person",0.8
+"The jeweler sold fake diamonds",0.6
+"I bought a camera with lens problems",0.45
+"The rental agreement had early termination fees",0.4
+"I was served wrong dish",0.35
+"The product warranty was denied for misuse",0.45
+"Catalog delivery continued after stop",0.3
+"I received damaged artwork",0.4
+"The product had asbestos contamination",0.9
+"I was billed for estimate",0.3
+"False biodegradable claims",0.4
+"The administrator showed nepotism",0.75
+"The school district overfunded administration",0.65
+"I was denied tutoring services",0.6
+"Discrimination in award nominations",0.7
+"The university breached research agreement",0.65
+"My research grant was cut",0.65
+"The school failed to provide lockers",0.55
+"I was punished for group project issues",0.6
+"Unfair makeup exam policies",0.55
+"The institution violated student rights",0.7
+"My cooperative was sued by members",0.7
+"The translator failed accuracy standards",0.6
+"I was accused of unfair competition",0.7
+"The constitution was amended improperly",0.65
+"My competitor engaged in comparative advertising",0.65
+"The company was defamed by ex-employees",0.7
+"The line of credit was frozen",0.65
+"I was forced into mediation",0.6
+"Trade dress infringement",0.7
+"Sanctions compliance violation",0.75
